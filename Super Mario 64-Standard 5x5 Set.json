@@ -1698,6 +1698,7 @@
         "ddd",
         "redcoins"
       ],
+      "tooltip": "Red Coin Star in DDD",
       "icons": [
         "sm64/ddd_red_coin.webp"
       ],
@@ -1733,6 +1734,7 @@
         "redcoins",
         "ssl"
       ],
+      "tooltip": "Red Coin Star in SSL",
       "icons": [
         "sm64/ssl_red_coin.webp"
       ],
@@ -1767,6 +1769,7 @@
         "bbh",
         "redcoins"
       ],
+      "tooltip": "Red Coin Star in BBH",
       "icons": [
         "sm64/bbh_red_coin.webp"
       ],
@@ -1801,6 +1804,7 @@
         "redcoins",
         "ttm"
       ],
+      "tooltip": "Red Coin Star in TTM",
       "icons": [
         "sm64/ttm_red_coin.webp"
       ],
@@ -1929,6 +1933,7 @@
         "redcoins",
         "thi"
       ],
+      "tooltip": "Red Coin Star in THI",
       "icons": [
         "sm64/thi_red_coin.webp"
       ],
@@ -1995,6 +2000,7 @@
         "redcoins",
         "wf"
       ],
+      "tooltip": "Red Coin Star in WF",
       "icons": [
         "sm64/wf_red_coin.webp"
       ],
@@ -2045,6 +2051,7 @@
         "ccm",
         "redcoins"
       ],
+      "tooltip": "Red Coin Star in CCM",
       "icons": [
         "sm64/ccm_red_coin.webp"
       ],
@@ -2078,6 +2085,7 @@
         "jrb",
         "redcoins"
       ],
+      "tooltip": "Red Coin Star in JRB",
       "icons": [
         "sm64/jrb_red_coin.webp"
       ],
@@ -2127,6 +2135,7 @@
         "hmc",
         "redcoins"
       ],
+      "tooltip": "Red Coin Star in HMC",
       "icons": [
         "sm64/hmc_red_coin.webp"
       ],
@@ -2430,11 +2439,30 @@
         "bob",
         "redcoins"
       ],
+      "tooltip": "Red Coin Star in BOB",
       "icons": [
         "sm64/bob_red_coin.webp"
       ],
       "progression": [
         "e"
+      ]
+    },
+    {
+      "goal": "Go to Town for 8 Red Coins (WDW)",
+      "range": [],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "wdw",
+        "redcoins"
+      ],
+      "tooltip": "Red Coin Star in WDW",
+      "icons": [
+        "sm64/bob_red_coin.webp"
+      ],
+      "progression": [
+        "l"
       ]
     }
   ],
