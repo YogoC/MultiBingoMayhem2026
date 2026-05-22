@@ -1,0 +1,2523 @@
+{
+  "schema_version": 2,
+  "schema_mode": "strict",
+  "game_name": "Super Mario 64",
+  "set_name": "Ascension Set",
+  "tag_names": [],
+  "objectives": [
+    {
+      "goal": "All Stars in {{X}} Stages",
+      "range": [
+        2,
+        3
+      ],
+      "individual_limit": 2,
+      "board_categories": [
+        "allstars"
+      ],
+      "line_categories": [
+        "collectstars"
+      ],
+      "icons": [],
+      "progression": [
+        "l",
+        "n"
+      ],
+      "progressive_ranges": true
+    },
+    {
+      "goal": "Collect {{X}} Chest Stars",
+      "range": [
+        2,
+        3
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor"
+      ],
+      "line_categories": [
+        "ddd",
+        "jrb"
+      ],
+      "icons": [
+        "sm64/treasure_ddd.webp",
+        "sm64/treasure_jrb.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ],
+      "progressive_ranges": true
+    },
+    {
+      "goal": "Collect {{X}} Shiny Secret Stars",
+      "range": [
+        2,
+        3,
+        4
+      ],
+      "individual_limit": 2,
+      "board_categories": [
+        "basement",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "bob",
+        "ssl",
+        "thi",
+        "wdw"
+      ],
+      "tooltip": "The shiny secrets stars are in BOB, SSL, WDW, and THI",
+      "icons": [
+        "sm64/shiny_star.webp"
+      ],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ],
+      "progressive_ranges": true
+    },
+    {
+      "goal": "Unlock the Bob and LLL Shells",
+      "range": [],
+      "board_categories": [
+        "basement",
+        "mainfloor"
+      ],
+      "line_categories": [
+        "bob",
+        "lll"
+      ],
+      "icons": [],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "All three Bully stars",
+      "range": [],
+      "board_categories": [
+        "basement",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "collectstars",
+        "lll",
+        "sl"
+      ],
+      "icons": [
+        "sm64/big_bully.webp",
+        "sm64/chill_bully.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Collect {{X}} toad stars",
+      "range": [
+        2,
+        3
+      ],
+      "board_categories": [
+        "basement",
+        "secondfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "castlesecrets"
+      ],
+      "icons": [
+        "sm64/toad_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Collect {{X}} MIPS stars",
+      "range": [
+        2
+      ],
+      "board_categories": [
+        "basement",
+        "superlate"
+      ],
+      "line_categories": [
+        "castlesecrets"
+      ],
+      "icons": [
+        "sm64/mips_bunny_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Collect {{X}} Jetstream stars",
+      "range": [
+        2
+      ],
+      "board_categories": [
+        "basement"
+      ],
+      "line_categories": [
+        "ddd",
+        "jrb"
+      ],
+      "icons": [
+        "sm64/metal_cap_ddd.webp",
+        "sm64/metal_cap_jrb.webp"
+      ],
+      "progression": [
+        "m",
+        "l"
+      ]
+    },
+    {
+      "goal": "Stand Tall on the Four Pillars",
+      "range": [],
+      "board_categories": [
+        "basement"
+      ],
+      "line_categories": [
+        "ssl"
+      ],
+      "icons": [
+        "sm64/eyerok.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Star 1 from each stage",
+      "range": [],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars"
+      ],
+      "icons": [],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Lose Mario's Hat",
+      "range": [],
+      "board_categories": [
+        "basement",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "sl",
+        "ssl",
+        "ttm"
+      ],
+      "icons": [],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Reach the Castle Roof",
+      "range": [],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [],
+      "icons": [],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Collect 130 Coins in {{X}} stage(s)",
+      "range": [
+        1,
+        2
+      ],
+      "individual_limit": 2,
+      "board_categories": [
+        "100coins",
+        "mainfloor",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "bbh",
+        "ccm",
+        "wdw",
+        "wf"
+      ],
+      "icons": [],
+      "progression": [
+        "e",
+        "m",
+        "l",
+        "n"
+      ],
+      "progressive_ranges": true
+    },
+    {
+      "goal": "Collect 140 Coins in {{X}} stage(s)",
+      "range": [
+        1,
+        2
+      ],
+      "individual_limit": 2,
+      "board_categories": [
+        "100coins",
+        "mainfloor",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "bbh",
+        "ccm",
+        "wdw",
+        "wf"
+      ],
+      "icons": [],
+      "progression": [
+        "e",
+        "m",
+        "l",
+        "n"
+      ],
+      "progressive_ranges": true
+    },
+    {
+      "goal": "At least 2 stars from {{X}} stages",
+      "range": [
+        10,
+        11
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars"
+      ],
+      "icons": [],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "At least 3 stars from {{X}} stages",
+      "range": [
+        8,
+        9
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars"
+      ],
+      "icons": [],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "At least 3 stars from {{X}} stages",
+      "range": [
+        5,
+        6
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars"
+      ],
+      "icons": [],
+      "progression": [
+        "m",
+        "l"
+      ]
+    },
+    {
+      "goal": "At Least 1 Star From Each Stage",
+      "range": [],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars"
+      ],
+      "icons": [],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Collect a total of {{X}} Stars",
+      "range": [
+        20,
+        25
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars"
+      ],
+      "icons": [
+        "sm64/power_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ],
+      "progressive_ranges": true
+    },
+    {
+      "goal": "Collect a total of {{X}} Stars",
+      "range": [
+        30,
+        35,
+        40
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars"
+      ],
+      "icons": [
+        "sm64/power_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Collect a total of {{X}} Stars",
+      "range": [
+        40
+      ],
+      "board_categories": [
+        "basement",
+        "secondfloor",
+        "superlate",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars"
+      ],
+      "icons": [
+        "sm64/power_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Obtain {{X}} Cap Red Coin Stars",
+      "range": [
+        1,
+        2,
+        3
+      ],
+      "individual_limit": 2,
+      "board_categories": [
+        "basement",
+        "mainfloor"
+      ],
+      "line_categories": [
+        "collectstars",
+        "redcoins"
+      ],
+      "icons": [
+        "sm64/wing_red_coin.webp",
+        "sm64/vanish_red_coin.webp",
+        "sm64/metal_red_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m",
+        "l",
+        "n"
+      ],
+      "progressive_ranges": true
+    },
+    {
+      "goal": "Collect {{X}} Stars from both SL and WDW",
+      "range": [
+        3,
+        4
+      ],
+      "board_categories": [
+        "secondfloor"
+      ],
+      "line_categories": [
+        "collectstars",
+        "sl",
+        "wdw"
+      ],
+      "icons": [
+        "sm64/sl_wdw_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ],
+      "progressive_ranges": true
+    },
+    {
+      "goal": "Collect {{X}} Stars from both TTC and RR",
+      "range": [
+        3,
+        4
+      ],
+      "board_categories": [
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars",
+        "rr",
+        "ttc"
+      ],
+      "icons": [
+        "sm64/ttc_rr_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ],
+      "progressive_ranges": true
+    },
+    {
+      "goal": "Collect {{X}} Stars from both TTM and THI",
+      "range": [
+        3,
+        4
+      ],
+      "board_categories": [
+        "secondfloor"
+      ],
+      "line_categories": [
+        "collectstars",
+        "thi",
+        "ttm"
+      ],
+      "icons": [
+        "sm64/ttm_thi_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Collect {{X}} Stars from both BOB and CCM",
+      "range": [
+        3,
+        4
+      ],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "bob",
+        "ccm",
+        "collectstars"
+      ],
+      "icons": [
+        "sm64/bob_ccm_star.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Collect {{X}} Stars from both BBH and LLL",
+      "range": [
+        3,
+        4
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor"
+      ],
+      "line_categories": [
+        "bbh",
+        "collectstars",
+        "lll"
+      ],
+      "icons": [],
+      "progression": [
+        "m",
+        "l"
+      ]
+    },
+    {
+      "goal": "Collect {{X}} Stars from both JRB and DDD",
+      "range": [
+        3,
+        4
+      ],
+      "board_categories": [
+        "basement"
+      ],
+      "line_categories": [
+        "collectstars",
+        "ddd",
+        "jrb"
+      ],
+      "icons": [
+        "sm64/jrb_ddd_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Collect {{X}} Stars from both HMC and SSL",
+      "range": [
+        3,
+        4
+      ],
+      "board_categories": [
+        "basement"
+      ],
+      "line_categories": [
+        "collectstars",
+        "hmc",
+        "ssl"
+      ],
+      "icons": [],
+      "progression": [
+        "e",
+        "m",
+        "l"
+      ],
+      "progressive_ranges": true
+    },
+    {
+      "goal": "Collect {{X}} Red Coin Stars From Main Stages",
+      "range": [
+        3,
+        4
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars",
+        "redcoins"
+      ],
+      "icons": [
+        "sm64/bbh_red_coin.webp",
+        "sm64/bob_red_coin.webp",
+        "sm64/ccm_red_coin.webp",
+        "sm64/ddd_red_coin.webp",
+        "sm64/hmc_red_coin.webp",
+        "sm64/jrb_red_coin.webp",
+        "sm64/lll_red_coin.webp",
+        "sm64/rr_red_coin.webp",
+        "sm64/wdw_red_coin.webp",
+        "sm64/ttm_red_coin.webp",
+        "sm64/thi_red_coin.webp",
+        "sm64/ttc_red_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Collect {{X}} Red Coin Stars From Main Stages",
+      "range": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars",
+        "redcoins"
+      ],
+      "icons": [
+        "sm64/bbh_red_coin.webp",
+        "sm64/bob_red_coin.webp",
+        "sm64/ccm_red_coin.webp",
+        "sm64/ddd_red_coin.webp",
+        "sm64/hmc_red_coin.webp",
+        "sm64/jrb_red_coin.webp",
+        "sm64/lll_red_coin.webp",
+        "sm64/rr_red_coin.webp",
+        "sm64/wdw_red_coin.webp",
+        "sm64/ttm_red_coin.webp",
+        "sm64/thi_red_coin.webp",
+        "sm64/ttc_red_coin.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ],
+      "progressive_ranges": true
+    },
+    {
+      "goal": "Collect {{X}} Red Coin Stars",
+      "range": [
+        4,
+        5
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars",
+        "redcoins"
+      ],
+      "icons": [
+        "sm64/red_coin_star.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Collect {{X}} Red Coin Stars",
+      "range": [
+        8,
+        9
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars",
+        "redcoins"
+      ],
+      "icons": [
+        "sm64/red_coin_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Collect {{X}} Red Coin Stars",
+      "range": [
+        11,
+        12
+      ],
+      "board_categories": [
+        "basement",
+        "secondfloor",
+        "superlate",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars",
+        "redcoins"
+      ],
+      "icons": [
+        "sm64/red_coin_star.webp"
+      ],
+      "progression": [
+        "n"
+      ]
+    },
+    {
+      "goal": "Defeat {{X}} Unique Mini-Bosses",
+      "range": [
+        3,
+        4
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "collectstars"
+      ],
+      "tooltip": "Defeat minibosses and collect their stars",
+      "icons": [
+        "sm64/king_bob_omb.webp",
+        "sm64/whomp_king.webp",
+        "sm64/eyerok.webp",
+        "sm64/wiggler.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Rematch with Koopa the Quick (THI)",
+      "range": [],
+      "board_categories": [
+        "secondfloor"
+      ],
+      "line_categories": [
+        "thi"
+      ],
+      "tooltip": "Win the race against Koopa the Quick in THI and collect the star",
+      "icons": [
+        "sm64/koopa_the_quick_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Win {{X}} Character Races",
+      "range": [
+        2,
+        3
+      ],
+      "board_categories": [
+        "mainfloor",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "bob",
+        "ccm",
+        "thi"
+      ],
+      "tooltip": "Win a race against Koopa the Quick (2) and/or the Big Penguin",
+      "icons": [
+        "sm64/koopa_the_quick_star.webp",
+        "sm64/penguin_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "At least 4 Stars from {{X}} stages",
+      "range": [
+        6,
+        7
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars"
+      ],
+      "tooltip": "4 stars per stage",
+      "icons": [
+        "sm64/bob_4_star.webp",
+        "sm64/wf_4_star.webp",
+        "sm64/hmc_4_star.webp",
+        "sm64/lll_4_star.webp",
+        "sm64/ttm_4_star.webp",
+        "sm64/wdw_4_star.webp",
+        "sm64/ttc_4_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Unlock {{X}} Cannons",
+      "range": [
+        3,
+        4,
+        5
+      ],
+      "individual_limit": 2,
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "cannons"
+      ],
+      "icons": [
+        "sm64/cannon_lid.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ],
+      "progressive_ranges": true
+    },
+    {
+      "goal": "Unlock {{X}} Cannons",
+      "range": [
+        7,
+        8
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "cannons"
+      ],
+      "icons": [
+        "sm64/cannon_lid.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Unlock {{X}} Cannons",
+      "range": [
+        10,
+        11
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "cannons"
+      ],
+      "icons": [
+        "sm64/cannon_lid.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "{{X}} Castle Secret Stars",
+      "range": [
+        5,
+        6
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "castlesecrets",
+        "collectstars"
+      ],
+      "icons": [
+        "sm64/castle_secrets.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "{{X}} Castle Secret Stars",
+      "range": [
+        8,
+        9
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "castlesecrets",
+        "collectstars"
+      ],
+      "icons": [
+        "sm64/castle_secrets.webp"
+      ],
+      "progression": [
+        "e",
+        "m",
+        "l",
+        "n"
+      ],
+      "progressive_ranges": true
+    },
+    {
+      "goal": "{{X}} Castle Secret Stars",
+      "range": [
+        11,
+        12
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "castlesecrets",
+        "collectstars"
+      ],
+      "icons": [
+        "sm64/castle_secrets.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "{{X}} 100 Coin Stars",
+      "range": [
+        3,
+        4
+      ],
+      "board_categories": [
+        "100coins"
+      ],
+      "line_categories": [
+        "collectstars"
+      ],
+      "icons": [
+        "sm64/100_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "{{X}} 100 Coin Stars",
+      "range": [
+        5,
+        6
+      ],
+      "board_categories": [
+        "100coins"
+      ],
+      "line_categories": [
+        "collectstars"
+      ],
+      "icons": [
+        "sm64/100_coin.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Obtain {{X}} Lives",
+      "range": [
+        20,
+        25
+      ],
+      "board_categories": [
+        "lives"
+      ],
+      "line_categories": [],
+      "icons": [
+        "sm64/1_up_mushroom.webp"
+      ],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Obtain {{X}} Lives",
+      "range": [
+        30,
+        35
+      ],
+      "board_categories": [
+        "lives"
+      ],
+      "line_categories": [],
+      "icons": [
+        "sm64/1_up_mushroom.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Collect 120 Coins in {{X}} stage(s)",
+      "range": [
+        1,
+        2,
+        3
+      ],
+      "board_categories": [
+        "100coins"
+      ],
+      "line_categories": [],
+      "icons": [
+        "sm64/coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m",
+        "l",
+        "n"
+      ],
+      "progressive_ranges": true
+    },
+    {
+      "goal": "{{X}} Stars in BOB",
+      "range": [
+        5,
+        6
+      ],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "bob",
+        "collectstars"
+      ],
+      "icons": [
+        "sm64/bob_star.webp"
+      ],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "All ({{X}}) Stars in BOB",
+      "range": [
+        7
+      ],
+      "board_categories": [
+        "allstars"
+      ],
+      "line_categories": [
+        "bob"
+      ],
+      "icons": [
+        "sm64/bob_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "{{X}} Stars in JRB",
+      "range": [
+        5,
+        6
+      ],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "collectstars",
+        "jrb"
+      ],
+      "icons": [
+        "sm64/jrb_star.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "All ({{X}}) Stars in JRB",
+      "range": [
+        7
+      ],
+      "board_categories": [
+        "allstars",
+        "mainfloor"
+      ],
+      "line_categories": [
+        "jrb"
+      ],
+      "icons": [
+        "sm64/jrb_star.webp"
+      ],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "All ({{X}}) Stars in WF",
+      "range": [
+        7
+      ],
+      "board_categories": [
+        "allstars",
+        "mainfloor"
+      ],
+      "line_categories": [
+        "wf"
+      ],
+      "icons": [
+        "sm64/wf_star.webp"
+      ],
+      "progression": [
+        "e",
+        "m",
+        "l"
+      ]
+    },
+    {
+      "goal": "All ({{X}}) Stars in LLL",
+      "range": [
+        7
+      ],
+      "board_categories": [
+        "allstars"
+      ],
+      "line_categories": [
+        "lll"
+      ],
+      "icons": [
+        "sm64/lll_star.webp"
+      ],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "{{X}} Stars in SL",
+      "range": [
+        5,
+        6
+      ],
+      "board_categories": [
+        "secondfloor"
+      ],
+      "line_categories": [
+        "collectstars",
+        "sl"
+      ],
+      "icons": [
+        "sm64/sl_star.webp"
+      ],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "All ({{X}}) Stars in SL",
+      "range": [
+        7
+      ],
+      "board_categories": [
+        "allstars",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "sl"
+      ],
+      "icons": [
+        "sm64/sl_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "{{X}} Stars in WDW",
+      "range": [
+        5,
+        6
+      ],
+      "board_categories": [
+        "secondfloor"
+      ],
+      "line_categories": [
+        "collectstars",
+        "wdw"
+      ],
+      "icons": [
+        "sm64/wdw_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "All ({{X}}) Stars in WDW",
+      "range": [
+        7
+      ],
+      "board_categories": [
+        "allstars",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "wdw"
+      ],
+      "icons": [
+        "sm64/wdw_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "{{X}} Stars in THI",
+      "range": [
+        5,
+        6
+      ],
+      "board_categories": [
+        "secondfloor"
+      ],
+      "line_categories": [
+        "collectstars",
+        "thi"
+      ],
+      "icons": [
+        "sm64/thi_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "All ({{X}}) Stars in THI",
+      "range": [
+        7
+      ],
+      "board_categories": [
+        "allstars",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "thi"
+      ],
+      "icons": [
+        "sm64/thi_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "All ({{X}}) Stars in TTC",
+      "range": [
+        7
+      ],
+      "board_categories": [
+        "allstars",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "ttc"
+      ],
+      "icons": [
+        "sm64/ttc_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "{{X}} Stars in RR",
+      "range": [
+        5,
+        6
+      ],
+      "board_categories": [
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars",
+        "rr"
+      ],
+      "icons": [
+        "sm64/rr_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "All ({{X}}) Stars in RR",
+      "range": [
+        7
+      ],
+      "board_categories": [
+        "allstars",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "rr"
+      ],
+      "icons": [
+        "sm64/rr_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "{{X}} Stars in TTM",
+      "range": [
+        5,
+        6
+      ],
+      "board_categories": [
+        "secondfloor"
+      ],
+      "line_categories": [
+        "collectstars",
+        "ttm"
+      ],
+      "icons": [
+        "sm64/ttm_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "All ({{X}}) Stars in TTM",
+      "range": [
+        7
+      ],
+      "board_categories": [
+        "allstars",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "ttm"
+      ],
+      "icons": [
+        "sm64/ttm_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "{{X}} Stars in DDD",
+      "range": [
+        5,
+        6
+      ],
+      "board_categories": [
+        "basement"
+      ],
+      "line_categories": [
+        "collectstars",
+        "ddd"
+      ],
+      "icons": [
+        "sm64/ddd_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "All ({{X}}) Stars in DDD",
+      "range": [
+        7
+      ],
+      "board_categories": [
+        "allstars",
+        "basement"
+      ],
+      "line_categories": [
+        "ddd"
+      ],
+      "icons": [
+        "sm64/ddd_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "{{X}} Stars in SSL",
+      "range": [
+        5,
+        6
+      ],
+      "board_categories": [
+        "basement"
+      ],
+      "line_categories": [
+        "collectstars",
+        "ssl"
+      ],
+      "icons": [
+        "sm64/ssl_star.webp"
+      ],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "All ({{X}}) Stars in SSL",
+      "range": [
+        7
+      ],
+      "board_categories": [
+        "allstars",
+        "basement"
+      ],
+      "line_categories": [
+        "ssl"
+      ],
+      "icons": [
+        "sm64/ssl_star.webp"
+      ],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "{{X}} Stars in CCM",
+      "range": [
+        5,
+        6
+      ],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "ccm",
+        "collectstars"
+      ],
+      "icons": [
+        "sm64/ccm_star.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "All ({{X}}) Stars in CCM",
+      "range": [
+        7
+      ],
+      "board_categories": [
+        "allstars"
+      ],
+      "line_categories": [
+        "ccm"
+      ],
+      "icons": [
+        "sm64/ccm_star.webp"
+      ],
+      "progression": [
+        "e",
+        "m",
+        "l"
+      ]
+    },
+    {
+      "goal": "{{X}} Stars in BBH",
+      "range": [
+        5,
+        6
+      ],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "bbh",
+        "collectstars"
+      ],
+      "icons": [
+        "sm64/bbh_star.webp"
+      ],
+      "progression": [
+        "m",
+        "l"
+      ]
+    },
+    {
+      "goal": "All ({{X}}) Stars in BBH",
+      "range": [
+        7
+      ],
+      "board_categories": [
+        "allstars",
+        "mainfloor"
+      ],
+      "line_categories": [
+        "bbh"
+      ],
+      "icons": [
+        "sm64/bbh_star.webp"
+      ],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "{{X}} Stars in HMC",
+      "range": [
+        5,
+        6
+      ],
+      "board_categories": [
+        "basement"
+      ],
+      "line_categories": [
+        "collectstars",
+        "hmc"
+      ],
+      "icons": [
+        "sm64/hmc_star.webp"
+      ],
+      "progression": [
+        "m",
+        "l"
+      ]
+    },
+    {
+      "goal": "All ({{X}}) Stars in HMC",
+      "range": [
+        7
+      ],
+      "board_categories": [
+        "allstars",
+        "basement"
+      ],
+      "line_categories": [
+        "hmc"
+      ],
+      "icons": [
+        "sm64/hmc_star.webp"
+      ],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Somewhere over the Rainbow (RR)",
+      "range": [],
+      "board_categories": [
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "cannons",
+        "rr"
+      ],
+      "icons": [
+        "sm64/cannon_rr.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Pole-Jumping for Red Coins (DDD)",
+      "range": [],
+      "board_categories": [
+        "basement"
+      ],
+      "line_categories": [
+        "ddd",
+        "redcoins"
+      ],
+      "icons": [
+        "sm64/ddd_red_coin.webp"
+      ],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Collect the Caps (DDD)",
+      "range": [],
+      "board_categories": [
+        "basement"
+      ],
+      "line_categories": [
+        "ddd"
+      ],
+      "icons": [
+        "sm64/metal_vanish_cap_ddd.webp"
+      ],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Free Flying for 8 Red Coins (SSL)",
+      "range": [],
+      "board_categories": [
+        "basement"
+      ],
+      "line_categories": [
+        "redcoins",
+        "ssl"
+      ],
+      "icons": [
+        "sm64/ssl_red_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Big Penguin Race (CCM)",
+      "range": [],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "ccm"
+      ],
+      "icons": [
+        "sm64/penguin_star.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Seek the 8 Red Coins (BBH)",
+      "range": [],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "bbh",
+        "redcoins"
+      ],
+      "icons": [
+        "sm64/bbh_red_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Into the Igloo",
+      "range": [],
+      "board_categories": [
+        "secondfloor"
+      ],
+      "line_categories": [
+        "sl"
+      ],
+      "icons": [
+        "sm64/vanish_cap_sl.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Scary 'Shrooms, Red Coins (TTM)",
+      "range": [],
+      "board_categories": [
+        "secondfloor"
+      ],
+      "line_categories": [
+        "redcoins",
+        "ttm"
+      ],
+      "icons": [
+        "sm64/ttm_red_coin.webp"
+      ],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "{{X}} Princess's Secret Slide Stars",
+      "range": [
+        2
+      ],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "castlesecrets"
+      ],
+      "icons": [
+        "sm64/secret_slide_star.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "The Secret Aquarium",
+      "range": [],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "castlesecrets"
+      ],
+      "icons": [
+        "sm64/fish_star.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Bowser in the Sky Red Coin Star",
+      "range": [],
+      "board_categories": [
+        "bowserreds",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "castlesecrets"
+      ],
+      "icons": [
+        "sm64/sky_red_coin.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "{{X}} Bowser Red Coin Star(s)",
+      "range": [
+        2,
+        3
+      ],
+      "board_categories": [
+        "basement",
+        "bowserreds",
+        "mainfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "castlesecrets"
+      ],
+      "icons": [
+        "sm64/bowser_red_coin.webp"
+      ],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ],
+      "progressive_ranges": true
+    },
+    {
+      "goal": "Bowser in the Fire Sea Red Coin Star",
+      "range": [],
+      "board_categories": [
+        "basement",
+        "bowserreds"
+      ],
+      "line_categories": [
+        "castlesecrets"
+      ],
+      "icons": [
+        "sm64/fire_sea_red_coin.webp"
+      ],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Mystery of the Monkey Cage (TTM)",
+      "range": [],
+      "board_categories": [
+        "secondfloor"
+      ],
+      "line_categories": [
+        "ttm"
+      ],
+      "icons": [
+        "sm64/monkey_ttm.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Wiggler's Red Coins (THI)",
+      "range": [],
+      "board_categories": [
+        "secondfloor"
+      ],
+      "line_categories": [
+        "redcoins",
+        "thi"
+      ],
+      "icons": [
+        "sm64/thi_red_coin.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Make Wiggler Squirm",
+      "range": [],
+      "board_categories": [
+        "secondfloor"
+      ],
+      "line_categories": [
+        "thi"
+      ],
+      "icons": [
+        "sm64/wiggler_thi.webp"
+      ],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Quick Race through Downtown (WDW)",
+      "range": [],
+      "board_categories": [
+        "secondfloor"
+      ],
+      "line_categories": [
+        "wdw"
+      ],
+      "icons": [
+        "sm64/vanish_cap_wdw.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Eye to Eye in the Secret Room (BBH)",
+      "range": [],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "bbh"
+      ],
+      "icons": [
+        "sm64/big_mr_i_bbh.webp"
+      ],
+      "progression": [
+        "m",
+        "l"
+      ]
+    },
+    {
+      "goal": "Red Coins on the Floating Isle (WF)",
+      "range": [],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "redcoins",
+        "wf"
+      ],
+      "icons": [
+        "sm64/wf_red_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Big Bob-omb on the Summit",
+      "range": [],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "bob"
+      ],
+      "icons": [
+        "sm64/king_bobomb_bob.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Can the Eel Come out and Play (JRB)",
+      "range": [],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "jrb"
+      ],
+      "icons": [
+        "sm64/eel_jrb.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Frosty Slide for 8 Red Coins (CCM)",
+      "range": [],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "ccm",
+        "redcoins"
+      ],
+      "icons": [
+        "sm64/ccm_red_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Snowman's Lost his Head (CCM)",
+      "range": [],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "ccm"
+      ],
+      "icons": [
+        "sm64/snowman_ccm.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Red Coins on the Ship Afloat (JRB)",
+      "range": [],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "jrb",
+        "redcoins"
+      ],
+      "icons": [
+        "sm64/jrb_red_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Mario Wings to the Sky (BOB)",
+      "range": [],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "bob"
+      ],
+      "icons": [
+        "sm64/wing_cap_bob.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Navigating the Toxic Maze",
+      "range": [],
+      "board_categories": [
+        "basement"
+      ],
+      "line_categories": [
+        "hmc"
+      ],
+      "icons": [
+        "sm64/poison_mushroom_hmc.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Elevate for 8 Red Coins (HMC)",
+      "range": [],
+      "board_categories": [
+        "basement"
+      ],
+      "line_categories": [
+        "hmc",
+        "redcoins"
+      ],
+      "icons": [
+        "sm64/hmc_red_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "JRB {{X}} Coins",
+      "range": [
+        100
+      ],
+      "board_categories": [
+        "100coins",
+        "mainfloor"
+      ],
+      "line_categories": [
+        "jrb"
+      ],
+      "icons": [
+        "sm64/jrb_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "CCM {{X}} Coins",
+      "range": [
+        100
+      ],
+      "board_categories": [
+        "100coins",
+        "mainfloor"
+      ],
+      "line_categories": [
+        "ccm"
+      ],
+      "icons": [
+        "sm64/ccm_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "BOB {{X}} Coins",
+      "range": [
+        100
+      ],
+      "board_categories": [
+        "100coins",
+        "mainfloor"
+      ],
+      "line_categories": [
+        "bob"
+      ],
+      "icons": [
+        "sm64/bob_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "TTM {{X}} Coins",
+      "range": [
+        100
+      ],
+      "board_categories": [
+        "100coins",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "ttm"
+      ],
+      "icons": [
+        "sm64/ttm_coin.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "TTC {{X}} Coins",
+      "range": [
+        100
+      ],
+      "board_categories": [
+        "100coins",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "ttc"
+      ],
+      "icons": [
+        "sm64/ttc_coin.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "RR {{X}} Coins",
+      "range": [
+        100
+      ],
+      "board_categories": [
+        "100coins",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "rr"
+      ],
+      "icons": [
+        "sm64/coin_rr.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "THI {{X}} Coins",
+      "range": [
+        100
+      ],
+      "board_categories": [
+        "100coins",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "thi"
+      ],
+      "icons": [
+        "sm64/thi_coin.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "WDW {{X}} Coins",
+      "range": [
+        100
+      ],
+      "board_categories": [
+        "100coins",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "wdw"
+      ],
+      "icons": [
+        "sm64/wdw_coin.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "SL {{X}} Coins",
+      "range": [
+        100
+      ],
+      "board_categories": [
+        "100coins",
+        "secondfloor"
+      ],
+      "line_categories": [
+        "sl"
+      ],
+      "icons": [
+        "sm64/sl_coin.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "BBH {{X}} Coins",
+      "range": [
+        100
+      ],
+      "board_categories": [
+        "100coins",
+        "mainfloor"
+      ],
+      "line_categories": [
+        "bbh"
+      ],
+      "icons": [
+        "sm64/bbh_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m",
+        "l"
+      ]
+    },
+    {
+      "goal": "SSL {{X}} Coins",
+      "range": [
+        100
+      ],
+      "board_categories": [
+        "100coins",
+        "basement"
+      ],
+      "line_categories": [
+        "ssl"
+      ],
+      "icons": [
+        "sm64/ssl_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "DDD {{X}} Coins",
+      "range": [
+        100
+      ],
+      "board_categories": [
+        "100coins",
+        "basement"
+      ],
+      "line_categories": [
+        "ddd"
+      ],
+      "icons": [
+        "sm64/ddd_coin.webp"
+      ],
+      "progression": [
+        "m",
+        "l"
+      ]
+    },
+    {
+      "goal": "LLL {{X}} Coins",
+      "range": [
+        100
+      ],
+      "board_categories": [
+        "100coins",
+        "basement"
+      ],
+      "line_categories": [
+        "lll"
+      ],
+      "icons": [
+        "sm64/lll_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "HMC {{X}} Coins",
+      "range": [
+        100
+      ],
+      "board_categories": [
+        "100coins",
+        "basement"
+      ],
+      "line_categories": [
+        "hmc"
+      ],
+      "icons": [
+        "sm64/hmc_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "WF {{X}} Coins",
+      "range": [
+        100
+      ],
+      "board_categories": [
+        "100coins",
+        "mainfloor"
+      ],
+      "line_categories": [
+        "wf"
+      ],
+      "icons": [
+        "sm64/wf_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    },
+    {
+      "goal": "Find the 8 Red Coins (BOB)",
+      "range": [],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "bob",
+        "redcoins"
+      ],
+      "icons": [
+        "sm64/bob_red_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m"
+      ]
+    }
+  ],
+  "limits": {
+    "board": {
+      "100coins": 20,
+      "allstars": 30,
+      "basement": 50,
+      "bowserreds": 15,
+      "lives": 20,
+      "mainfloor": 50,
+      "secondfloor": 50,
+      "superlate": 20,
+      "thirdfloor": 35
+    },
+    "line": {
+      "bbh": 20,
+      "bob": 20,
+      "cannons": 25,
+      "castlesecrets": 25,
+      "ccm": 25,
+      "collectstars": 60,
+      "ddd": 20,
+      "hmc": 25,
+      "jrb": 20,
+      "lll": 25,
+      "redcoins": 25,
+      "rr": 20,
+      "sl": 20,
+      "ssl": 20,
+      "thi": 25,
+      "ttc": 20,
+      "ttm": 25,
+      "wdw": 25,
+      "wf": 25
+    }
+  }
+}
