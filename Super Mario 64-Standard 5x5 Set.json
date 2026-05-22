@@ -1795,25 +1795,6 @@
       ]
     },
     {
-      "goal": "Scary 'Shrooms, Red Coins (TTM)",
-      "range": [],
-      "board_categories": [
-        "secondfloor"
-      ],
-      "line_categories": [
-        "redcoins",
-        "ttm"
-      ],
-      "tooltip": "Red Coin Star in TTM",
-      "icons": [
-        "sm64/ttm_red_coin.webp"
-      ],
-      "progression": [
-        "m",
-        "l"
-      ]
-    },
-    {
       "goal": "{{X}} Princess's Secret Slide Stars",
       "range": [
         2
