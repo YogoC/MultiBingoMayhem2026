@@ -20,7 +20,6 @@
       ],
       "icons": [],
       "progression": [
-        "m",
         "l",
         "n"
       ],
@@ -245,7 +244,7 @@
         "wdw",
         "wf"
       ],
-      "tooltip": "Collect a star in {{X}} stages while having at least 130 coins",
+      "tooltip": "Collect a star in {{X}} stage(s) while having at least 130 coins",
       "icons": [],
       "progression": [
         "e",
@@ -271,7 +270,7 @@
         "wdw",
         "wf"
       ],
-      "tooltip": "Collect a star in {{X}} stages while having at least 130 coins",
+      "tooltip": "Collect a star in {{X}} stage(s) while having at least 130 coins",
       "icons": [],
       "progression": [
         "e",
@@ -1093,7 +1092,8 @@
         "sm64/1_up_mushroom.webp"
       ],
       "progression": [
-        "m"
+        "m",
+        "l"
       ]
     },
     {
@@ -1130,7 +1130,7 @@
         "wdw",
         "wf"
       ],
-      "tooltip": "Collect a star in {{X}} stages while having at least 130 coins",
+      "tooltip": "Collect a star in {{X}} stage(s) while having at least 120 coins",
       "icons": [
         "sm64/coin.webp"
       ],
@@ -2440,7 +2440,7 @@
       ],
       "tooltip": "Red Coin Star in WDW",
       "icons": [
-        "sm64/bob_red_coin.webp"
+        "sm64/wdw_red_coin.webp"
       ],
       "progression": [
         "l"

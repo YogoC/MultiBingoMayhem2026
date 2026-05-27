@@ -39,6 +39,7 @@
         "ddd",
         "jrb"
       ],
+      "tooltip": "JRB Ship, JRB Chests, DDD Chests",
       "icons": [
         "sm64/treasure_ddd.webp",
         "sm64/treasure_jrb.webp"
@@ -89,6 +90,7 @@
         "bob",
         "lll"
       ],
+      "tooltip": "Collect Stars 1-2 in BOB and Stars 1-4 in LLL",
       "icons": [],
       "progression": [
         "e",
@@ -107,6 +109,7 @@
         "lll",
         "sl"
       ],
+      "tooltip": "Boil the Big Bully (LLL), Bully the Bullies (LLL), and Chill with the Bully (SL)",
       "icons": [
         "sm64/big_bully.webp",
         "sm64/chill_bully.webp"
@@ -132,26 +135,6 @@
       ],
       "icons": [
         "sm64/toad_star.webp"
-      ],
-      "progression": [
-        "l",
-        "n"
-      ]
-    },
-    {
-      "goal": "Collect {{X}} MIPS stars",
-      "range": [
-        2
-      ],
-      "board_categories": [
-        "basement",
-        "superlate"
-      ],
-      "line_categories": [
-        "castlesecrets"
-      ],
-      "icons": [
-        "sm64/mips_bunny_star.webp"
       ],
       "progression": [
         "l",
@@ -208,6 +191,7 @@
       "line_categories": [
         "collectstars"
       ],
+      "tooltip": "Collect Star #1 in all 15 stages",
       "icons": [],
       "progression": [
         "l",
@@ -263,6 +247,7 @@
         "wdw",
         "wf"
       ],
+      "tooltip": "Collect a star in {{X}} stage(s) while having at least 130 coins",
       "icons": [],
       "progression": [
         "e",
@@ -290,6 +275,7 @@
         "wdw",
         "wf"
       ],
+      "tooltip": "Collect a star in {{X}} stage(s) while having at least 130 coins",
       "icons": [],
       "progression": [
         "e",
@@ -374,6 +360,7 @@
       "line_categories": [
         "collectstars"
       ],
+      "tooltip": "Collect at least one star in all 15 stages",
       "icons": [],
       "progression": [
         "l",
@@ -493,6 +480,7 @@
         "sl",
         "wdw"
       ],
+      "tooltip": "Collect {{X}} stars in each of the two stages",
       "icons": [
         "sm64/sl_wdw_star.webp"
       ],
@@ -516,6 +504,7 @@
         "rr",
         "ttc"
       ],
+      "tooltip": "Collect {{X}} stars in each of the two stages",
       "icons": [
         "sm64/ttc_rr_star.webp"
       ],
@@ -539,6 +528,7 @@
         "thi",
         "ttm"
       ],
+      "tooltip": "Collect {{X}} stars in each of the two stages",
       "icons": [
         "sm64/ttm_thi_star.webp"
       ],
@@ -561,6 +551,7 @@
         "ccm",
         "collectstars"
       ],
+      "tooltip": "Collect {{X}} stars in each of the two stages",
       "icons": [
         "sm64/bob_ccm_star.webp"
       ],
@@ -584,6 +575,28 @@
         "collectstars",
         "lll"
       ],
+      "tooltip": "Collect {{X}} stars in each of the two stages",
+      "icons": [],
+      "progression": [
+        "m",
+        "l"
+      ]
+    },
+    {
+      "goal": "Collect {{X}} Stars from both JRB and BBH",
+      "range": [
+        3,
+        4
+      ],
+      "board_categories": [
+        "basement"
+      ],
+      "line_categories": [
+        "collectstars",
+        "jrb",
+        "bbh"
+      ],
+      "tooltip": "Collect {{X}} stars in each of the two stages",
       "icons": [],
       "progression": [
         "m",
@@ -604,10 +617,12 @@
         "ddd",
         "jrb"
       ],
+      "tooltip": "Collect {{X}} stars in each of the two stages",
       "icons": [
         "sm64/jrb_ddd_star.webp"
       ],
       "progression": [
+        "m",
         "l",
         "n"
       ]
@@ -626,6 +641,7 @@
         "hmc",
         "ssl"
       ],
+      "tooltip": "Collect {{X}} stars in each of the two stages",
       "icons": [],
       "progression": [
         "e",
@@ -672,12 +688,12 @@
     {
       "goal": "Collect {{X}} Red Coin Stars From Main Stages",
       "range": [
+        3,
+        4,
         5,
-        6,
-        7,
-        8,
-        9
+        6
       ],
+      "individual_limit": 2,
       "board_categories": [
         "basement",
         "mainfloor",
@@ -688,6 +704,48 @@
         "collectstars",
         "redcoins"
       ],
+      "tooltip": "Must be from the 15 main stages",
+      "icons": [
+        "sm64/bbh_red_coin.webp",
+        "sm64/bob_red_coin.webp",
+        "sm64/ccm_red_coin.webp",
+        "sm64/ddd_red_coin.webp",
+        "sm64/hmc_red_coin.webp",
+        "sm64/jrb_red_coin.webp",
+        "sm64/lll_red_coin.webp",
+        "sm64/rr_red_coin.webp",
+        "sm64/wdw_red_coin.webp",
+        "sm64/ttm_red_coin.webp",
+        "sm64/thi_red_coin.webp",
+        "sm64/ttc_red_coin.webp"
+      ],
+      "progression": [
+        "e",
+        "m",
+        "l"
+      ],
+      "progressive_ranges": true
+    },
+    {
+      "goal": "Collect {{X}} Red Coin Stars From Main Stages",
+      "range": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "individual_limit": 2,
+      "board_categories": [
+        "basement",
+        "secondfloor",
+        "superlate",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars",
+        "redcoins"
+      ],
+      "tooltip": "Must be from the 15 main stages",
       "icons": [
         "sm64/bbh_red_coin.webp",
         "sm64/bob_red_coin.webp",
@@ -705,8 +763,7 @@
       "progression": [
         "l",
         "n"
-      ],
-      "progressive_ranges": true
+      ]
     },
     {
       "goal": "Collect {{X}} Red Coin Stars",
@@ -724,6 +781,7 @@
         "collectstars",
         "redcoins"
       ],
+      "tooltip": "Any red coin stars, including castle secrets",
       "icons": [
         "sm64/red_coin_star.webp"
       ],
@@ -748,6 +806,7 @@
         "collectstars",
         "redcoins"
       ],
+      "tooltip": "Any red coin stars, including castle secrets",
       "icons": [
         "sm64/red_coin_star.webp"
       ],
@@ -772,6 +831,7 @@
         "collectstars",
         "redcoins"
       ],
+      "tooltip": "Any red coin stars, including castle secrets",
       "icons": [
         "sm64/red_coin_star.webp"
       ],
@@ -863,7 +923,6 @@
       "line_categories": [
         "collectstars"
       ],
-      "tooltip": "4 stars per stage",
       "icons": [
         "sm64/bob_4_star.webp",
         "sm64/wf_4_star.webp",
@@ -965,6 +1024,7 @@
         "castlesecrets",
         "collectstars"
       ],
+      "tooltip": "Castle secret stars are any stars not in main stages",
       "icons": [
         "sm64/castle_secrets.webp"
       ],
@@ -988,6 +1048,7 @@
         "castlesecrets",
         "collectstars"
       ],
+      "tooltip": "Castle secret stars are any stars not in main stages",
       "icons": [
         "sm64/castle_secrets.webp"
       ],
@@ -1014,6 +1075,7 @@
         "castlesecrets",
         "collectstars"
       ],
+      "tooltip": "Castle secret stars are any stars not in main stages",
       "icons": [
         "sm64/castle_secrets.webp"
       ],
@@ -1110,6 +1172,7 @@
         "100coins"
       ],
       "line_categories": [],
+      "tooltip": "Collect a star in {{X}} stage(s) while having at least 120 coins",
       "icons": [
         "sm64/coin.webp"
       ],
@@ -1708,6 +1771,7 @@
         "ddd",
         "redcoins"
       ],
+      "tooltip": "Red Coin Star in DDD",
       "icons": [
         "sm64/ddd_red_coin.webp"
       ],
@@ -1745,6 +1809,7 @@
         "redcoins",
         "ssl"
       ],
+      "tooltip": "Red Coin Star in SSL",
       "icons": [
         "sm64/ssl_red_coin.webp"
       ],
@@ -1780,6 +1845,7 @@
         "bbh",
         "redcoins"
       ],
+      "tooltip": "Red Coin Star in BBH",
       "icons": [
         "sm64/bbh_red_coin.webp"
       ],
@@ -1815,6 +1881,7 @@
         "redcoins",
         "ttm"
       ],
+      "tooltip": "Red Coin Star in TTM",
       "icons": [
         "sm64/ttm_red_coin.webp"
       ],
@@ -1949,6 +2016,7 @@
         "redcoins",
         "thi"
       ],
+      "tooltip": "Red Coin Star in THI",
       "icons": [
         "sm64/thi_red_coin.webp"
       ],
@@ -2019,6 +2087,7 @@
         "redcoins",
         "wf"
       ],
+      "tooltip": "Red Coin Star in WF",
       "icons": [
         "sm64/wf_red_coin.webp"
       ],
@@ -2071,6 +2140,7 @@
         "ccm",
         "redcoins"
       ],
+      "tooltip": "Red Coin Star in CCM",
       "icons": [
         "sm64/ccm_red_coin.webp"
       ],
@@ -2106,6 +2176,7 @@
         "jrb",
         "redcoins"
       ],
+      "tooltip": "Red Coin Star in JRB",
       "icons": [
         "sm64/jrb_red_coin.webp"
       ],
@@ -2158,6 +2229,7 @@
         "hmc",
         "redcoins"
       ],
+      "tooltip": "Red Coin Star in HMC",
       "icons": [
         "sm64/hmc_red_coin.webp"
       ],
@@ -2477,12 +2549,31 @@
         "bob",
         "redcoins"
       ],
+      "tooltip": "Red Coin Star in BOB",
       "icons": [
         "sm64/bob_red_coin.webp"
       ],
       "progression": [
         "e",
         "m"
+      ]
+    },
+    {
+      "goal": "Go to Town for 8 Red Coins (WDW)",
+      "range": [],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "wdw",
+        "redcoins"
+      ],
+      "tooltip": "Red Coin Star in WDW",
+      "icons": [
+        "sm64/wdw_red_coin.webp"
+      ],
+      "progression": [
+        "l"
       ]
     }
   ],
