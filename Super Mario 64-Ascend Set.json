@@ -1892,6 +1892,40 @@
       ]
     },
     {
+      "goal": "Secrets in the Shallows and Sky (WDW)",
+      "range": [],
+      "board_categories": [
+        "secondfloor"
+      ],
+      "line_categories": [
+        "wdw"
+      ],
+      "tooltip": "Shiny Secrets Star in WDW",
+      "icons": [],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "Five Itty Bitty Secrets (THI)",
+      "range": [],
+      "board_categories": [
+        "secondfloor"
+      ],
+      "line_categories": [
+        "thi"
+      ],
+      "tooltip": "Shiny Secrets Star in THI",
+      "icons": [],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
+    {
       "goal": "{{X}} Princess's Secret Slide Stars",
       "range": [
         2
