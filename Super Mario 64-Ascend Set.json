@@ -368,7 +368,7 @@
       ]
     },
     {
-      "goal": "Collect a total of {{X}} Stars",
+      "goal": "{{X}} Stars",
       "range": [
         20,
         25
@@ -382,6 +382,7 @@
       "line_categories": [
         "collectstars"
       ],
+      "tooltip": "Collect a total of {{X}} Stars",
       "icons": [
         "sm64/power_star.webp"
       ],
@@ -392,7 +393,7 @@
       "progressive_ranges": true
     },
     {
-      "goal": "Collect a total of {{X}} Stars",
+      "goal": "{{X}} Stars",
       "range": [
         30,
         35,
@@ -407,6 +408,7 @@
       "line_categories": [
         "collectstars"
       ],
+      "tooltip": "Collect a total of {{X}} Stars",
       "icons": [
         "sm64/power_star.webp"
       ],
@@ -416,7 +418,7 @@
       ]
     },
     {
-      "goal": "Collect a total of {{X}} Stars",
+      "goal": "{{X}} Stars",
       "range": [
         40
       ],
@@ -429,6 +431,7 @@
       "line_categories": [
         "collectstars"
       ],
+      "tooltip": "Collect a total of {{X}} Stars",
       "icons": [
         "sm64/power_star.webp"
       ],
