@@ -37,7 +37,8 @@
       ],
       "line_categories": [
         "ddd",
-        "jrb"
+        "jrb",
+        "collectstars"
       ],
       "tooltip": "JRB Ship, JRB Chests, DDD Chests",
       "icons": [
@@ -105,7 +106,6 @@
         "secondfloor"
       ],
       "line_categories": [
-        "collectstars",
         "lll",
         "sl"
       ],
@@ -302,8 +302,8 @@
     {
       "goal": "At least 3 stars from {{X}} stages",
       "range": [
-        8,
-        9
+        7,
+        8
       ],
       "board_categories": [
         "basement",
@@ -822,6 +822,7 @@
         "sm64/wiggler.webp"
       ],
       "progression": [
+        "m",
         "l"
       ]
     },
@@ -1126,12 +1127,7 @@
       "board_categories": [
         "100coins"
       ],
-      "line_categories": [
-        "bbh",
-        "ccm",
-        "wdw",
-        "wf"
-      ],
+      "line_categories": [],
       "tooltip": "Collect a star in {{X}} stage(s) while having at least 120 coins",
       "icons": [
         "sm64/coin.webp"
@@ -1169,10 +1165,12 @@
         7
       ],
       "board_categories": [
-        "allstars"
+        "allstars",
+        "mainfloor"
       ],
       "line_categories": [
-        "bob"
+        "bob",
+        "collectstars"
       ],
       "icons": [
         "sm64/bob_star.webp"
@@ -1212,7 +1210,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "jrb"
+        "jrb",
+        "collectstars"
       ],
       "icons": [
         "sm64/jrb_star.webp"
@@ -1231,7 +1230,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "wf"
+        "wf",
+        "collectstars"
       ],
       "icons": [
         "sm64/wf_star.webp"
@@ -1246,10 +1246,12 @@
         7
       ],
       "board_categories": [
-        "allstars"
+        "allstars",
+        "basement"
       ],
       "line_categories": [
-        "lll"
+        "lll",
+        "collectstars"
       ],
       "icons": [
         "sm64/lll_star.webp"
@@ -1288,7 +1290,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "sl"
+        "sl",
+        "collectstars"
       ],
       "icons": [
         "sm64/sl_star.webp"
@@ -1327,7 +1330,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "wdw"
+        "wdw",
+        "collectstars"
       ],
       "icons": [
         "sm64/wdw_star.webp"
@@ -1366,7 +1370,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "thi"
+        "thi",
+        "collectstars"
       ],
       "icons": [
         "sm64/thi_star.webp"
@@ -1385,7 +1390,8 @@
         "thirdfloor"
       ],
       "line_categories": [
-        "ttc"
+        "ttc",
+        "collectstars"
       ],
       "icons": [
         "sm64/ttc_star.webp"
@@ -1424,7 +1430,8 @@
         "thirdfloor"
       ],
       "line_categories": [
-        "rr"
+        "rr",
+        "collectstars"
       ],
       "icons": [
         "sm64/rr_star.webp"
@@ -1464,7 +1471,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "ttm"
+        "ttm",
+        "collectstars"
       ],
       "icons": [
         "sm64/ttm_star.webp"
@@ -1504,7 +1512,8 @@
         "basement"
       ],
       "line_categories": [
-        "ddd"
+        "ddd",
+        "collectstars"
       ],
       "icons": [
         "sm64/ddd_star.webp"
@@ -1543,7 +1552,8 @@
         "basement"
       ],
       "line_categories": [
-        "ssl"
+        "ssl",
+        "collectstars"
       ],
       "icons": [
         "sm64/ssl_star.webp"
@@ -1580,10 +1590,12 @@
         7
       ],
       "board_categories": [
-        "allstars"
+        "allstars",
+        "mainfloor"
       ],
       "line_categories": [
-        "ccm"
+        "ccm",
+        "collectstars"
       ],
       "icons": [
         "sm64/ccm_star.webp"
@@ -1623,7 +1635,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "bbh"
+        "bbh",
+        "collectstars"
       ],
       "icons": [
         "sm64/bbh_star.webp"
@@ -1663,7 +1676,8 @@
         "basement"
       ],
       "line_categories": [
-        "hmc"
+        "hmc",
+        "collectstars"
       ],
       "icons": [
         "sm64/hmc_star.webp"
