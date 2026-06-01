@@ -2068,6 +2068,25 @@
         "n"
       ]
     },
+    
+    {
+      "goal": "Cruiser Crossing the Rainbow (RR)",
+      "range": [],
+      "board_categories": [
+        "thirdfloor",
+        "lockoutexclude"
+      ],
+      "line_categories": [
+        "rr"
+      ],
+      "tooltip": "Cruiser Star in RR",
+      "icons": [],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
     {
       "goal": "{{X}} Princess's Secret Slide Stars",
       "range": [
@@ -2777,9 +2796,9 @@
       "castlesecrets": 25,
       "ccm": 25,
       "collectstars": 65,
-      "ddd": 20,
+      "ddd": 25,
       "hmc": 25,
-      "jrb": 20,
+      "jrb": 25,
       "lll": 25,
       "redcoins": 20,
       "rr": 20,
