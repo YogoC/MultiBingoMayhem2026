@@ -169,7 +169,8 @@
         "basement"
       ],
       "line_categories": [
-        "ssl"
+        "ssl",
+        "singlestar"
       ],
       "icons": [
         "sm64/eyerok.webp"
@@ -939,7 +940,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "thi"
+        "thi",
+        "singlestar"
       ],
       "tooltip": "Win the race against Koopa the Quick in THI and collect the star",
       "icons": [
@@ -1841,7 +1843,8 @@
       ],
       "line_categories": [
         "cannons",
-        "rr"
+        "rr",
+        "singlestar"
       ],
       "icons": [
         "sm64/cannon_rr.webp"
@@ -1858,7 +1861,8 @@
       ],
       "line_categories": [
         "ddd",
-        "redcoins"
+        "redcoins",
+        "singlestar"
       ],
       "tooltip": "Red Coin Star in DDD",
       "icons": [
@@ -1876,7 +1880,8 @@
         "basement"
       ],
       "line_categories": [
-        "ddd"
+        "ddd",
+        "singlestar"
       ],
       "icons": [
         "sm64/metal_vanish_cap_ddd.webp"
@@ -1894,7 +1899,8 @@
       ],
       "line_categories": [
         "redcoins",
-        "ssl"
+        "ssl",
+        "singlestar"
       ],
       "tooltip": "Red Coin Star in SSL",
       "icons": [
@@ -1912,7 +1918,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "ccm"
+        "ccm",
+        "singlestar"
       ],
       "icons": [
         "sm64/penguin_star.webp"
@@ -1929,7 +1936,8 @@
       ],
       "line_categories": [
         "bbh",
-        "redcoins"
+        "redcoins",
+        "singlestar"
       ],
       "tooltip": "Red Coin Star in BBH",
       "icons": [
@@ -1947,7 +1955,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "sl"
+        "sl",
+        "singlestar"
       ],
       "icons": [
         "sm64/vanish_cap_sl.webp"
@@ -1964,7 +1973,8 @@
       ],
       "line_categories": [
         "redcoins",
-        "ttm"
+        "ttm",
+        "singlestar"
       ],
       "tooltip": "Red Coin Star in TTM",
       "icons": [
@@ -1984,7 +1994,8 @@
         "lockoutexclude"
       ],
       "line_categories": [
-        "wdw"
+        "wdw",
+        "singlestar"
       ],
       "tooltip": "Shiny Secrets Star in WDW",
       "icons": [],
@@ -2002,7 +2013,8 @@
         "lockoutexclude"
       ],
       "line_categories": [
-        "thi"
+        "thi",
+        "singlestar"
       ],
       "tooltip": "Shiny Secrets Star in THI",
       "icons": [],
@@ -2020,7 +2032,8 @@
         "lockoutexclude"
       ],
       "line_categories": [
-        "rr"
+        "rr",
+        "singlestar"
       ],
       "tooltip": "Cruiser Star in RR",
       "icons": [],
@@ -2055,7 +2068,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "castlesecrets"
+        "castlesecrets",
+        "singlestar"
       ],
       "icons": [
         "sm64/fish_star.webp"
@@ -2073,7 +2087,8 @@
       ],
       "line_categories": [
         "castlesecrets",
-        "redcoins"
+        "redcoins",
+        "singlestar"
       ],
       "icons": [
         "sm64/sky_red_coin.webp"
@@ -2117,7 +2132,8 @@
       ],
       "line_categories": [
         "castlesecrets",
-        "redcoins"
+        "redcoins",
+        "singlestar"
       ],
       "icons": [
         "sm64/fire_sea_red_coin.webp"
@@ -2134,7 +2150,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "ttm"
+        "ttm",
+        "singlestar"
       ],
       "icons": [
         "sm64/monkey_ttm.webp"
@@ -2151,7 +2168,8 @@
       ],
       "line_categories": [
         "redcoins",
-        "thi"
+        "thi",
+        "singlestar"
       ],
       "tooltip": "Red Coin Star in THI",
       "icons": [
@@ -2168,7 +2186,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "thi"
+        "thi",
+        "singlestar"
       ],
       "icons": [
         "sm64/wiggler_thi.webp"
@@ -2185,7 +2204,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "wdw"
+        "wdw",
+        "singlestar"
       ],
       "icons": [
         "sm64/vanish_cap_wdw.webp"
@@ -2201,7 +2221,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "bbh"
+        "bbh",
+        "singlestar"
       ],
       "icons": [
         "sm64/big_mr_i_bbh.webp"
@@ -2218,7 +2239,8 @@
       ],
       "line_categories": [
         "redcoins",
-        "wf"
+        "wf",
+        "singlestar"
       ],
       "tooltip": "Red Coin Star in WF",
       "icons": [
@@ -2235,7 +2257,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "bob"
+        "bob",
+        "singlestar"
       ],
       "icons": [
         "sm64/king_bobomb_bob.webp"
@@ -2251,7 +2274,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "jrb"
+        "jrb",
+        "singlestar"
       ],
       "icons": [
         "sm64/eel_jrb.webp"
@@ -2269,7 +2293,8 @@
       ],
       "line_categories": [
         "ccm",
-        "redcoins"
+        "redcoins",
+        "singlestar"
       ],
       "tooltip": "Red Coin Star in CCM",
       "icons": [
@@ -2286,7 +2311,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "ccm"
+        "ccm",
+        "singlestar"
       ],
       "icons": [
         "sm64/snowman_ccm.webp"
@@ -2303,7 +2329,8 @@
       ],
       "line_categories": [
         "jrb",
-        "redcoins"
+        "redcoins",
+        "singlestar"
       ],
       "tooltip": "Red Coin Star in JRB",
       "icons": [
@@ -2320,7 +2347,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "bob"
+        "bob",
+        "singlestar"
       ],
       "icons": [
         "sm64/wing_cap_bob.webp"
@@ -2336,7 +2364,8 @@
         "basement"
       ],
       "line_categories": [
-        "hmc"
+        "hmc",
+        "singlestar"
       ],
       "icons": [
         "sm64/poison_mushroom_hmc.webp"
@@ -2353,7 +2382,8 @@
       ],
       "line_categories": [
         "hmc",
-        "redcoins"
+        "redcoins",
+        "singlestar"
       ],
       "tooltip": "Red Coin Star in HMC",
       "icons": [
@@ -2373,7 +2403,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "jrb"
+        "jrb",
+        "singlestar"
       ],
       "icons": [
         "sm64/jrb_coin.webp"
@@ -2392,7 +2423,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "ccm"
+        "ccm",
+        "singlestar"
       ],
       "icons": [
         "sm64/ccm_coin.webp"
@@ -2411,7 +2443,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "bob"
+        "bob",
+        "singlestar"
       ],
       "icons": [
         "sm64/bob_coin.webp"
@@ -2430,7 +2463,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "ttm"
+        "ttm",
+        "singlestar"
       ],
       "icons": [
         "sm64/ttm_coin.webp"
@@ -2449,7 +2483,8 @@
         "thirdfloor"
       ],
       "line_categories": [
-        "ttc"
+        "ttc",
+        "singlestar"
       ],
       "icons": [
         "sm64/ttc_coin.webp"
@@ -2468,7 +2503,8 @@
         "thirdfloor"
       ],
       "line_categories": [
-        "rr"
+        "rr",
+        "singlestar"
       ],
       "icons": [
         "sm64/coin_rr.webp"
@@ -2487,7 +2523,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "thi"
+        "thi",
+        "singlestar"
       ],
       "icons": [
         "sm64/thi_coin.webp"
@@ -2506,7 +2543,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "wdw"
+        "wdw",
+        "singlestar"
       ],
       "icons": [
         "sm64/wdw_coin.webp"
@@ -2525,7 +2563,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "sl"
+        "sl",
+        "singlestar"
       ],
       "icons": [
         "sm64/sl_coin.webp"
@@ -2544,7 +2583,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "bbh"
+        "bbh",
+        "singlestar"
       ],
       "icons": [
         "sm64/bbh_coin.webp"
@@ -2563,7 +2603,8 @@
         "basement"
       ],
       "line_categories": [
-        "ssl"
+        "ssl",
+        "singlestar"
       ],
       "icons": [
         "sm64/ssl_coin.webp"
@@ -2582,7 +2623,8 @@
         "basement"
       ],
       "line_categories": [
-        "ddd"
+        "ddd",
+        "singlestar"
       ],
       "icons": [
         "sm64/ddd_coin.webp"
@@ -2601,7 +2643,8 @@
         "basement"
       ],
       "line_categories": [
-        "lll"
+        "lll",
+        "singlestar"
       ],
       "icons": [
         "sm64/lll_coin.webp"
@@ -2621,7 +2664,8 @@
         "basement"
       ],
       "line_categories": [
-        "hmc"
+        "hmc",
+        "singlestar"
       ],
       "icons": [
         "sm64/hmc_coin.webp"
@@ -2640,7 +2684,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "wf"
+        "wf",
+        "singlestar"
       ],
       "icons": [
         "sm64/wf_coin.webp"
@@ -2657,7 +2702,8 @@
       ],
       "line_categories": [
         "bob",
-        "redcoins"
+        "redcoins",
+        "singlestar"
       ],
       "tooltip": "Red Coin Star in BOB",
       "icons": [
@@ -2675,7 +2721,8 @@
       ],
       "line_categories": [
         "wdw",
-        "redcoins"
+        "redcoins",
+        "singlestar"
       ],
       "tooltip": "Red Coin Star in WDW",
       "icons": [
@@ -2718,7 +2765,8 @@
       "ttc": 20,
       "ttm": 30,
       "wdw": 30,
-      "wf": 30
+      "wf": 30,
+      "singlestar": 50
     }
   }
 }
