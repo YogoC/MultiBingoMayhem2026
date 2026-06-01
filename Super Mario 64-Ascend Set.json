@@ -23,7 +23,8 @@
         "l",
         "n"
       ],
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "weighting": 90
     },
     {
       "goal": "Collect {{X}} Chest Stars",
@@ -303,7 +304,8 @@
       "progression": [
         "l",
         "n"
-      ]
+      ],
+      "weighting": 90
     },
     {
       "goal": "At least 3 stars from {{X}} stages",
@@ -324,7 +326,8 @@
       "progression": [
         "l",
         "n"
-      ]
+      ],
+      "weighting": 90
     },
     {
       "goal": "At least 3 stars from {{X}} stages",
@@ -846,7 +849,8 @@
       "progression": [
         "l",
         "n"
-      ]
+      ],
+      "weighting": 90
     },
     {
       "goal": "Collect {{X}} Red Coin Stars",
@@ -920,7 +924,8 @@
       ],
       "progression": [
         "n"
-      ]
+      ],
+      "weighting": 90
     },
     {
       "goal": "Defeat {{X}} Unique Mini-Bosses",
@@ -995,6 +1000,37 @@
     {
       "goal": "At least 4 Stars from {{X}} stages",
       "range": [
+        3,
+        4,
+        5
+      ],
+      "board_categories": [
+        "basement",
+        "mainfloor",
+        "secondfloor",
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "collectstars"
+      ],
+      "icons": [
+        "sm64/bob_4_star.webp",
+        "sm64/wf_4_star.webp",
+        "sm64/hmc_4_star.webp",
+        "sm64/lll_4_star.webp",
+        "sm64/ttm_4_star.webp",
+        "sm64/wdw_4_star.webp",
+        "sm64/ttc_4_star.webp"
+      ],
+      "progression": [
+        "m",
+        "l",
+        "n"
+      ]
+    },
+    {
+      "goal": "At least 4 Stars from {{X}} stages",
+      "range": [
         6,
         7
       ],
@@ -1019,7 +1055,8 @@
       "progression": [
         "l",
         "n"
-      ]
+      ],
+      "weighting": 90
     },
     {
       "goal": "Unlock {{X}} Cannons",
@@ -1091,7 +1128,8 @@
       "progression": [
         "l",
         "n"
-      ]
+      ],
+      "weighting": 95
     },
     {
       "goal": "{{X}} Castle Secret Stars",
@@ -1164,7 +1202,8 @@
       "progression": [
         "l",
         "n"
-      ]
+      ],
+      "weighting": 95
     },
     {
       "goal": "{{X}} 100 Coin Stars",
@@ -1253,7 +1292,12 @@
       "board_categories": [
         "100coins"
       ],
-      "line_categories": [],
+      "line_categories": [
+        "bbh",
+        "ccm",
+        "wdw",
+        "wf"
+      ],
       "tooltip": "Collect a star in {{X}} stage(s) while having at least 120 coins",
       "icons": [
         "sm64/coin.webp"
@@ -2068,7 +2112,8 @@
         "thirdfloor"
       ],
       "line_categories": [
-        "castlesecrets"
+        "castlesecrets",
+        "redcoins"
       ],
       "icons": [
         "sm64/sky_red_coin.webp"
@@ -2091,7 +2136,8 @@
         "thirdfloor"
       ],
       "line_categories": [
-        "castlesecrets"
+        "castlesecrets",
+        "redcoins"
       ],
       "icons": [
         "sm64/bowser_red_coin.webp"
@@ -2111,7 +2157,8 @@
         "bowserreds"
       ],
       "line_categories": [
-        "castlesecrets"
+        "castlesecrets",
+        "redcoins"
       ],
       "icons": [
         "sm64/fire_sea_red_coin.webp"
@@ -2724,25 +2771,25 @@
       "lockoutexclude": 100
     },
     "line": {
-      "bbh": 20,
-      "bob": 20,
+      "bbh": 25,
+      "bob": 25,
       "cannons": 25,
       "castlesecrets": 25,
       "ccm": 25,
-      "collectstars": 60,
+      "collectstars": 65,
       "ddd": 20,
       "hmc": 25,
       "jrb": 20,
       "lll": 25,
-      "redcoins": 25,
+      "redcoins": 20,
       "rr": 20,
       "sl": 20,
       "ssl": 20,
-      "thi": 25,
+      "thi": 30,
       "ttc": 20,
-      "ttm": 25,
-      "wdw": 25,
-      "wf": 25
+      "ttm": 30,
+      "wdw": 30,
+      "wf": 30
     }
   }
 }
