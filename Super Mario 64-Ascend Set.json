@@ -1137,12 +1137,10 @@
         "sm64/castle_secrets.webp"
       ],
       "progression": [
-        "e",
         "m",
         "l",
         "n"
-      ],
-      "progressive_ranges": true
+      ]
     },
     {
       "goal": "{{X}} Castle Secret Stars",
