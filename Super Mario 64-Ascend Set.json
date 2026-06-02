@@ -2136,6 +2136,24 @@
       ]
     },
     {
+      "goal": "Wing Mario Over the Rainbow",
+      "range": [],
+      "board_categories": [
+        "thirdfloor"
+      ],
+      "line_categories": [
+        "castlesecrets",
+        "singlestar"
+      ],
+      "icons": [
+        "sm64/wing_mario_over_the_rainbow_star.webp"
+      ],
+      "progression": [
+        "l",
+        "n"
+      ]
+    },
+    {
       "goal": "Bowser in the Sky Red Coin Star",
       "range": [],
       "board_categories": [
