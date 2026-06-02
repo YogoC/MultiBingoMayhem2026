@@ -2198,6 +2198,25 @@
       ]
     },
     {
+      "goal": "Shell Shreddin' for Red Coins (SL)",
+      "range": [],
+      "board_categories": [
+        "secondfloor"
+      ],
+      "line_categories": [
+        "redcoins",
+        "sl",
+        "singlestar"
+      ],
+      "tooltip": "Red Coin Star in SL",
+      "icons": [
+        "sm64/sl_red_coin.webp"
+      ],
+      "progression": [
+        "l"
+      ]
+    },
+    {
       "goal": "Make Wiggler Squirm",
       "range": [],
       "board_categories": [
