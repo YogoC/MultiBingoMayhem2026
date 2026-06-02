@@ -1949,6 +1949,24 @@
       ]
     },
     {
+      "goal": "Ride Big Boo's Merry-Go-Round",
+      "range": [],
+      "board_categories": [
+        "mainfloor"
+      ],
+      "line_categories": [
+        "bbh",
+        "singlestar"
+      ],
+      "tooltip": "Merry-Go-Round Star in BBH",
+      "icons": [
+        "sm64/boo_portrait_bbh.webp"
+      ],
+      "progression": [
+        "m"
+      ]
+    },
+    {
       "goal": "Into the Igloo",
       "range": [],
       "board_categories": [
