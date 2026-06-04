@@ -741,17 +741,10 @@
       ],
       "tooltip": "Must be from the 15 main stages",
       "icons": [
-        "sm64/bbh_red_coin.webp",
-        "sm64/bob_red_coin.webp",
         "sm64/ccm_red_coin.webp",
-        "sm64/ddd_red_coin.webp",
-        "sm64/hmc_red_coin.webp",
-        "sm64/jrb_red_coin.webp",
         "sm64/lll_red_coin.webp",
-        "sm64/rr_red_coin.webp",
         "sm64/wdw_red_coin.webp",
         "sm64/ttm_red_coin.webp",
-        "sm64/thi_red_coin.webp",
         "sm64/ttc_red_coin.webp"
       ],
       "progression": [
@@ -779,17 +772,10 @@
       ],
       "tooltip": "Must be from the 15 main stages",
       "icons": [
-        "sm64/bbh_red_coin.webp",
-        "sm64/bob_red_coin.webp",
         "sm64/ccm_red_coin.webp",
-        "sm64/ddd_red_coin.webp",
-        "sm64/hmc_red_coin.webp",
-        "sm64/jrb_red_coin.webp",
         "sm64/lll_red_coin.webp",
-        "sm64/rr_red_coin.webp",
         "sm64/wdw_red_coin.webp",
         "sm64/ttm_red_coin.webp",
-        "sm64/thi_red_coin.webp",
         "sm64/ttc_red_coin.webp"
       ],
       "progression": [
@@ -816,17 +802,10 @@
       ],
       "tooltip": "Must be from the 15 main stages",
       "icons": [
-        "sm64/bbh_red_coin.webp",
-        "sm64/bob_red_coin.webp",
         "sm64/ccm_red_coin.webp",
-        "sm64/ddd_red_coin.webp",
-        "sm64/hmc_red_coin.webp",
-        "sm64/jrb_red_coin.webp",
         "sm64/lll_red_coin.webp",
-        "sm64/rr_red_coin.webp",
         "sm64/wdw_red_coin.webp",
         "sm64/ttm_red_coin.webp",
-        "sm64/thi_red_coin.webp",
         "sm64/ttc_red_coin.webp"
       ],
       "progression": [
@@ -945,7 +924,7 @@
       ],
       "tooltip": "Win the race against Koopa the Quick in THI and collect the star",
       "icons": [
-        "sm64/koopa_the_quick_star.webp"
+        "sm64/koopa_the_quick_thi.webp"
       ],
       "progression": [
         "n"
@@ -2016,7 +1995,9 @@
         "singlestar"
       ],
       "tooltip": "Shiny Secrets Star in WDW",
-      "icons": [],
+      "icons": [
+        "shiny_wdw.webp"
+      ],
       "progression": [
         "m",
         "l",
@@ -2035,7 +2016,9 @@
         "singlestar"
       ],
       "tooltip": "Shiny Secrets Star in THI",
-      "icons": [],
+      "icons": [
+        "shiny_thi.webp"
+      ],
       "progression": [
         "m",
         "l",
@@ -2135,7 +2118,7 @@
       ]
     },
     {
-      "goal": "{{X}} Bowser Red Coin Star(s)",
+      "goal": "{{X}} Bowser Red Coin Stars",
       "range": [
         2,
         3
