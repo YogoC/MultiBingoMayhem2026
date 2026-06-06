@@ -82,8 +82,7 @@
       "goal": "Unlock the BOB and LLL Shells",
       "range": [],
       "board_categories": [
-        "basement",
-        "mainfloor"
+        "basement"
       ],
       "line_categories": [
         "collectstars",
@@ -101,7 +100,6 @@
       "goal": "All three Bully stars",
       "range": [],
       "board_categories": [
-        "basement",
         "secondfloor"
       ],
       "line_categories": [
@@ -126,7 +124,6 @@
         3
       ],
       "board_categories": [
-        "basement",
         "secondfloor",
         "thirdfloor"
       ],
@@ -183,9 +180,6 @@
       "goal": "Star 1 from each stage",
       "range": [],
       "board_categories": [
-        "basement",
-        "mainfloor",
-        "secondfloor",
         "thirdfloor"
       ],
       "line_categories": [
@@ -237,7 +231,7 @@
       ],
       "individual_limit": 2,
       "board_categories": [
-        "100coins",
+        "over100coins",
         "mainfloor",
         "secondfloor"
       ],
@@ -265,7 +259,7 @@
       ],
       "individual_limit": 2,
       "board_categories": [
-        "100coins",
+        "over100coins",
         "mainfloor",
         "secondfloor"
       ],
@@ -275,7 +269,7 @@
         "wdw",
         "wf"
       ],
-      "tooltip": "Collect a star in {{X}} stage(s) while having at least 130 coins",
+      "tooltip": "Collect a star in {{X}} stage(s) while having at least 140 coins",
       "icons": [],
       "progression": [
         "e",
@@ -292,8 +286,6 @@
         11
       ],
       "board_categories": [
-        "basement",
-        "mainfloor",
         "secondfloor",
         "thirdfloor"
       ],
@@ -315,7 +307,6 @@
       ],
       "board_categories": [
         "basement",
-        "mainfloor",
         "secondfloor",
         "thirdfloor"
       ],
@@ -354,9 +345,6 @@
       "goal": "At Least 1 Star From Each Stage",
       "range": [],
       "board_categories": [
-        "basement",
-        "mainfloor",
-        "secondfloor",
         "thirdfloor"
       ],
       "line_categories": [
@@ -479,7 +467,6 @@
         1
       ],
       "board_categories": [
-        "mainfloor",
         "basement"
       ],
       "line_categories": [
@@ -488,13 +475,9 @@
       "tooltip": "Collect {{X}} Star in each of the 9 stages: BOB, WF, JRB, CCM, BBH, HMC, LLL, SSL, DDD",
       "icons": [
         "sm64/bob_star.webp",
-        "sm64/wf_star.webp",
         "sm64/jrb_star.webp",
         "sm64/ccm_star.webp",
-        "sm64/bbh_star.webp",
-        "sm64/hmc_star.webp",
         "sm64/lll_star.webp",
-        "sm64/ssl_star.webp",
         "sm64/ddd_star.webp"
       ],
       "progression": [
@@ -532,8 +515,7 @@
         1
       ],
       "board_categories": [
-        "mainfloor",
-        "basement"
+        "thirdfloor"
       ],
       "line_categories": [
         "collectstars"
@@ -653,8 +635,7 @@
         4
       ],
       "board_categories": [
-        "basement",
-        "mainfloor"
+        "basement"
       ],
       "line_categories": [
         "bbh",
@@ -675,7 +656,7 @@
         4
       ],
       "board_categories": [
-        "basement"
+        "mainfloor"
       ],
       "line_categories": [
         "collectstars",
@@ -744,9 +725,7 @@
       ],
       "board_categories": [
         "basement",
-        "mainfloor",
-        "secondfloor",
-        "thirdfloor"
+        "mainfloor"
       ],
       "line_categories": [
         "collectstars",
@@ -762,22 +741,19 @@
       "progression": [
         "e",
         "m"
-      ]
+      ],
+      "weighting": 70
     },
     {
       "goal": "Collect {{X}} Red Coin Stars From Main Stages",
       "range": [
-        3,
-        4,
         5,
         6
       ],
       "individual_limit": 2,
       "board_categories": [
         "basement",
-        "mainfloor",
-        "secondfloor",
-        "thirdfloor"
+        "secondfloor"
       ],
       "line_categories": [
         "collectstars",
@@ -796,7 +772,8 @@
         "m",
         "l"
       ],
-      "progressive_ranges": true
+      "progressive_ranges": true,
+      "weighting": 70
     },
     {
       "goal": "Collect {{X}} Red Coin Stars From Main Stages",
@@ -808,7 +785,6 @@
       ],
       "individual_limit": 2,
       "board_categories": [
-        "basement",
         "secondfloor",
         "superlate",
         "thirdfloor"
@@ -829,19 +805,18 @@
         "l",
         "n"
       ],
-      "weighting": 90
+      "weighting": 70
     },
     {
       "goal": "Collect {{X}} Red Coin Stars",
       "range": [
         4,
-        5
+        5,
+        6
       ],
       "board_categories": [
         "basement",
-        "mainfloor",
-        "secondfloor",
-        "thirdfloor"
+        "mainfloor"
       ],
       "line_categories": [
         "collectstars",
@@ -854,7 +829,8 @@
       "progression": [
         "e",
         "m"
-      ]
+      ],
+      "weighting": 70
     },
     {
       "goal": "Collect {{X}} Red Coin Stars",
@@ -864,9 +840,7 @@
       ],
       "board_categories": [
         "basement",
-        "mainfloor",
-        "secondfloor",
-        "thirdfloor"
+        "secondfloor"
       ],
       "line_categories": [
         "collectstars",
@@ -879,7 +853,8 @@
       "progression": [
         "l",
         "n"
-      ]
+      ],
+      "weighting": 70
     },
     {
       "goal": "Collect {{X}} Red Coin Stars",
@@ -888,7 +863,6 @@
         12
       ],
       "board_categories": [
-        "basement",
         "secondfloor",
         "superlate",
         "thirdfloor"
@@ -904,7 +878,7 @@
       "progression": [
         "n"
       ],
-      "weighting": 90
+      "weighting": 60
     },
     {
       "goal": "Defeat {{X}} Unique Mini-Bosses",
@@ -914,7 +888,6 @@
       ],
       "board_categories": [
         "basement",
-        "mainfloor",
         "secondfloor"
       ],
       "line_categories": [
@@ -987,8 +960,7 @@
       "board_categories": [
         "basement",
         "mainfloor",
-        "secondfloor",
-        "thirdfloor"
+        "secondfloor"
       ],
       "line_categories": [
         "collectstars"
@@ -1016,7 +988,6 @@
       ],
       "board_categories": [
         "basement",
-        "mainfloor",
         "secondfloor",
         "thirdfloor"
       ],
@@ -1049,8 +1020,7 @@
       "board_categories": [
         "basement",
         "mainfloor",
-        "secondfloor",
-        "thirdfloor"
+        "cannons"
       ],
       "line_categories": [
         "cannons"
@@ -1071,10 +1041,9 @@
         8
       ],
       "board_categories": [
-        "basement",
-        "mainfloor",
         "secondfloor",
-        "thirdfloor"
+        "thirdfloor",
+        "cannons"
       ],
       "line_categories": [
         "cannons"
@@ -1094,10 +1063,8 @@
         11
       ],
       "board_categories": [
-        "basement",
-        "mainfloor",
-        "secondfloor",
-        "thirdfloor"
+        "thirdfloor",
+        "cannons"
       ],
       "line_categories": [
         "cannons"
@@ -1119,8 +1086,7 @@
       ],
       "board_categories": [
         "basement",
-        "mainfloor",
-        "secondfloor"
+        "mainfloor"
       ],
       "line_categories": [
         "castlesecrets",
@@ -1133,7 +1099,8 @@
       "progression": [
         "e",
         "m"
-      ]
+      ],
+      "weighting": 60
     },
     {
       "goal": "{{X}} Castle Secret Stars",
@@ -1143,7 +1110,6 @@
       ],
       "board_categories": [
         "basement",
-        "mainfloor",
         "secondfloor"
       ],
       "line_categories": [
@@ -1158,7 +1124,8 @@
         "m",
         "l",
         "n"
-      ]
+      ],
+      "weighting": 60
     },
     {
       "goal": "{{X}} Castle Secret Stars",
@@ -1167,9 +1134,8 @@
         12
       ],
       "board_categories": [
-        "basement",
-        "mainfloor",
-        "secondfloor"
+        "secondfloor",
+        "thirdfloor"
       ],
       "line_categories": [
         "castlesecrets",
@@ -1183,7 +1149,7 @@
         "l",
         "n"
       ],
-      "weighting": 95
+      "weighting": 50
     },
     {
       "goal": "{{X}} 100 Coin Stars",
@@ -1270,7 +1236,9 @@
         3
       ],
       "board_categories": [
-        "100coins"
+        "over100coins",
+        "mainfloor",
+        "secondfloor"
       ],
       "line_categories": [
         "bbh",
@@ -2148,6 +2116,7 @@
       ],
       "line_categories": [
         "castlesecrets",
+        "cannons",
         "singlestar"
       ],
       "icons": [
@@ -2460,6 +2429,7 @@
       ],
       "line_categories": [
         "bob",
+        "cannons",
         "singlestar"
       ],
       "icons": [
@@ -2867,6 +2837,8 @@
   "limits": {
     "board": {
       "100coins": 20,
+      "over100coins": 20,
+      "cannons": 20,
       "allstars": 30,
       "basement": 50,
       "bowserreds": 15,
