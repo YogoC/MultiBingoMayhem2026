@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "schema_mode": "strict",
+  "schema_mode": "dedicated",
   "game_name": "Super Mario 64",
   "set_name": "Ascension Set",
   "dedicated_schema_settings": {
