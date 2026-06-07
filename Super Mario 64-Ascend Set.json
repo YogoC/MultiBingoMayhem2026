@@ -1,8 +1,12 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "schema_mode": "strict",
   "game_name": "Super Mario 64",
   "set_name": "Ascension Set",
+  "dedicated_schema_settings": {
+    "game_mode": "ascend",
+    "game_size": "square7"
+  },
   "tag_names": [],
   "objectives": [
     {
