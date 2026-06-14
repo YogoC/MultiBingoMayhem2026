@@ -4,7 +4,13 @@ In this document, you can find all of the rules and details about the tournament
 
 ## Match Rules
 
+* Players are expected to arrive 15 minutes before the scheduled match.
+* Each player's POV must be streamed to Twitch.
 * The board is revealed when timing starts.
+
+### Variant selection
+* 
+
 
 ## Bingo Variants
 

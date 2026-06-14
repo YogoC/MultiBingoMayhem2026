@@ -2,7 +2,7 @@
 
 Welcome to Multi Bingo Mayhem 2026! This is a Super Mario 64 Variety Bingo Tournament with 5 different kinds of bingo where each match has bingo variants that are up to the players!
 
-The general rules of bingo can be found [here](https://docs.google.com/document/d/13cVrO2_c435ysJOeOyZMzo0AFFWDLGleZ5UTPoCDOxM/edit?tab=t.0#heading=h.3znysh7).
+The general rules of bingo and some tips can be found [here](https://docs.google.com/document/d/13cVrO2_c435ysJOeOyZMzo0AFFWDLGleZ5UTPoCDOxM/edit?tab=t.0#heading=h.3znysh7).
 
 ### All bingo variants have ***16 Star No LBLJ*** Rules applied. This means:
 
