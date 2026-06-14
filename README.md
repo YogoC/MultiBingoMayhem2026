@@ -11,7 +11,7 @@ The general rules of bingo can be found [here](https://docs.google.com/document/
 * ***ONLY MIPS CLIP TO SKIP 30 STAR DOOR***
 
 ## Bingo Variants
-We have **five** bingo variants for this tournament!
+We have **five** bingo variants for this tournament! The rules for each variant can be found [here](Rules.md#bingo-variants).
 
 ### Standard (1-line) Bingo
 * Collect the grand star in BitS after completing one line on the 5x5 bingo board!
@@ -27,8 +27,7 @@ We have **five** bingo variants for this tournament!
 * Collect the grand star in BitS after completing two lines on the 5x5 bingo board, one of which is chosen by your opponent!
 
 ### Ascend Bingo
-* Start from the bottom of a 7x7 board and race to the top row. As you complete goals, you will unlock adjacent goals. To win, complete a goal on the top row and two "shiny" goals highlighted on the board.
-* Timing ends when the last goal needed to win is marked (*there is no need to collect the grand star*).
+* Start from the bottom of a 7x7 board and race to the top while collecting two "shiny" goals!
 
 ## Useful Links
 The matches will be streamed on Twitch, at [YogoC's](https://twitch.tv/yogoc) and [Benedict's](https://twitch.tv/benedictfleur123) channels.
