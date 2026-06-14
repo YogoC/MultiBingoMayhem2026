@@ -17,7 +17,6 @@ For each match, variants will be selected through a pick/ban system. For the fir
 
 In Best of 3 matches, for games after the first, variants already played in the match cannot be repeated. The winner of the previous game bans one variant from the remaining pool, and the loser picks from the variants that are left.
 
-
 ## Bingo Variants
 
 Here are the detailed descriptions for each variant to be used in the tournament. For all variants except Double Anti, players reset when time starts. For Double Anti, players reset exactly one minute after time starts.
