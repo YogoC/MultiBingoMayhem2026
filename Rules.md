@@ -2,6 +2,14 @@
 
 In this document, you can find all of the rules and details about the tournament.
 
+## Player Eligibility
+* All entrants must have at least one run submitted to the [Super Mario 64 leaderboards on speedrun.com](https://www.speedrun.com/sm64).
+* All entrants must play on a platform that is accepted on the leaderboards. The restrictions on each platform are expressed in their respective Category Rules on speedrun.com.
+  * [N64](https://www.speedrun.com/sm64?h=120_Star-n64&rules=category&x=wkpoo02r-e8m7em86.9qj7z0oq)
+  * [VC](https://www.speedrun.com/sm64?h=120_Star-vc&rules=category&x=wkpoo02r-e8m7em86.jq6540ol)
+  * [EMU](https://www.speedrun.com/sm64?h=120_Star-emu&rules=category&x=wkpoo02r-e8m7em86.5lmoxk01)
+* Players must be available to play at least once a week starting August 1st, 2026. If they are in the Losers Bracket, they are expected to play up to two matches a week.
+
 ## Match Rules
 
 * Players are expected to arrive 15 minutes before the scheduled match.

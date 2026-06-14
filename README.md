@@ -3,7 +3,7 @@
 ## Overview
 Welcome to Multi Bingo Mayhem 2026! This is a Super Mario 64 Variety Bingo Tournament with 5 different kinds of bingo where each match has bingo variants that are up to the players! This tournament is a Double-Elimination bracket, where the top 3 runners split the prize pool! Revenue from Twitch subscriptions and bits/donations will be added to the initial $100 prize pool!
 
-The general rules of bingo and some tips can be found [here](https://docs.google.com/document/d/13cVrO2_c435ysJOeOyZMzo0AFFWDLGleZ5UTPoCDOxM/edit?tab=t.0#heading=h.3znysh7).
+The [Super Mario 64 Bingo Guide](https://docs.google.com/document/d/13cVrO2_c435ysJOeOyZMzo0AFFWDLGleZ5UTPoCDOxM/edit?tab=t.0#heading=h.3znysh7) has a lot of information about the general rules of the game, some goals that may not be super clear at first, and some routes that come up only in bingo. We highly recommend looking through it! Most importantly:
 
 ### All bingo variants have ***16 Star No LBLJ*** Rules applied. This means:
 
