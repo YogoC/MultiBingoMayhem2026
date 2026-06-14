@@ -14,19 +14,17 @@ The general rules of bingo can be found [here](https://docs.google.com/document/
 We have **five** bingo variants for this tournament!
 
 ### Standard (1-line) Bingo
-* Complete one line on the 5x5 bingo board and collect the grand star in BitS.
+* Collect the grand star in BitS after completing one line on the 5x5 bingo board!
 
 ### Triple (3-line) Bingo
-* Complete three lines on the 5x5 bingo board and collect the grand star in BitS.
+* Collect the grand star in BitS after completing three lines on the 5x5 bingo board!
 
 ### Lockout Bingo
 
-* Complete as many goals as possible on the 5x5 bingo board.
-* Each goal can only be marked by one player: once one player marks it, the other is locked out of that goal.
-* The match ends when a player reaches 13 goals (*there is no need to collect the grand star*).
+* Complete as many goals as possible on the 5x5 bingo board before your opponent! Each goal can only be marked by one player.
 
 ### Double (2-line) Anti Bingo
-* At the start, each player chooses one line on the 5x5 bingo board for their opponent. Each player must complete two lines on the board, including the one chosen by their opponent, and collect the grand star in BitS.
+* Collect the grand star in BitS after completing two lines on the 5x5 bingo board, one of which is chosen by your opponent!
 
 ### Ascend Bingo
 * Start from the bottom of a 7x7 board and race to the top row. As you complete goals, you will unlock adjacent goals. To win, complete a goal on the top row and two "shiny" goals highlighted on the board.
