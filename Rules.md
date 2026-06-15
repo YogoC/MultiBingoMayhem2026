@@ -9,6 +9,7 @@ In this document, you can find all of the rules and details about the tournament
   * [VC](https://www.speedrun.com/sm64?h=120_Star-vc&rules=category&x=wkpoo02r-e8m7em86.jq6540ol)
   * [EMU](https://www.speedrun.com/sm64?h=120_Star-emu&rules=category&x=wkpoo02r-e8m7em86.5lmoxk01)
 * Players must be available to play at least once a week starting August 1st, 2026. In the Losers Bracket, players are expected to play up to two matches a week.
+* Players must be able to have their gameplay, bingo board, and the board's timer on their layout.
 
 ## Timeline
 
@@ -24,13 +25,15 @@ In this document, you can find all of the rules and details about the tournament
 * Sep 12th - Sep 17th: Winners Finals + Losers Semifinals (Top 4)
 * Sep 17th - Sep 20th: Losers Finals + Grand Finals
 
-This timeline provides a tentative estimate of the tournament progression. Players should expect to be available to play in all of these intervals (especially if they expect to make it further in the tournament). Any significant delays from scheduling will result in a forfeit.
+This timeline provides a tentative estimate of the tournament progression. Players should expect to be available to play a match in all of these intervals (especially if they expect to make it further in the tournament). Any significant delays from scheduling will result in a forfeit.
 
 ## Match Rules
 
 * Players are expected to arrive 15 minutes before the scheduled match.
 * Each player's POV must be streamed to Twitch.
+* Players must have their gameplay, bingo board, and the board timer on their layout at all times.
 * The board is revealed when timing starts.
+* Players are not allowed to watch the main stream, their opponent's gameplay, or have any stream chat open during their races. Violating this may result in immediate disqualification.
 * All matches before the Top 8 (Winners Semifinals + Losers Round 5) will be a single game (Best of 1). Once we reach Top 8, all matches will be Best of 3 (First to 2).
 
 ### Variant selection
