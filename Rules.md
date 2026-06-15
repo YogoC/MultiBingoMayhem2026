@@ -4,18 +4,34 @@ In this document, you can find all of the rules and details about the tournament
 
 ## Player Eligibility
 * All entrants must have at least one run submitted to the [Super Mario 64 leaderboards on speedrun.com](https://www.speedrun.com/sm64).
-* All entrants must play on a platform that is accepted on the leaderboards. The restrictions on each platform are expressed in their respective Category Rules on speedrun.com.
+* All entrants must play on a platform and version that is accepted on the leaderboards. The restrictions on each platform are expressed in their respective Category Rules on speedrun.com.
   * [N64](https://www.speedrun.com/sm64?h=120_Star-n64&rules=category&x=wkpoo02r-e8m7em86.9qj7z0oq)
   * [VC](https://www.speedrun.com/sm64?h=120_Star-vc&rules=category&x=wkpoo02r-e8m7em86.jq6540ol)
   * [EMU](https://www.speedrun.com/sm64?h=120_Star-emu&rules=category&x=wkpoo02r-e8m7em86.5lmoxk01)
-* Players must be available to play at least once a week starting August 1st, 2026. If they are in the Losers Bracket, they are expected to play up to two matches a week.
+* Players must be available to play at least once a week starting August 1st, 2026. In the Losers Bracket, players are expected to play up to two matches a week.
+
+## Timeline
+
+* Announcement - July 29th: Registration and Seeding
+* July 30th: Bracket released, Scheduling Begins
+* Aug 1st - Aug 11th: Round 1
+* Aug 12th - Aug 22nd: Round 2 + Losers Round 1
+* Aug 22nd - Aug 26th: Losers Round 2
+* Aug 26th - Sep 2nd: Round 3 + Losers Round 3
+* Sep 2nd - Sep 6th: Losers Round 4
+* Sep 5th - Sep 10th: Winners Semifinals + Losers Round 5 (Top 8)
+* Sep 8th - Sep 13th: Losers Round 6
+* Sep 12th - Sep 17th: Winners Finals + Losers Semifinals (Top 4)
+* Sep 17th - Sep 20th: Losers Finals + Grand Finals
+
+This timeline provides a tentative estimate of the tournament progression. Players should expect to be available to play in all of these intervals (especially if they expect to make it further in the tournament). Any significant delays from scheduling will result in a forfeit.
 
 ## Match Rules
 
 * Players are expected to arrive 15 minutes before the scheduled match.
 * Each player's POV must be streamed to Twitch.
 * The board is revealed when timing starts.
-* All matches before the quarter-finals (Top 8) will be a single game (Best of 1). Once we reach Top 8, all matches will be Best of 3 (First to 2).
+* All matches before the Top 8 (Winners Semifinals + Losers Round 5) will be a single game (Best of 1). Once we reach Top 8, all matches will be Best of 3 (First to 2).
 
 ### Variant selection
 For each match, variants will be selected through a pick/ban system. For the first game, the player with the higher (better) seed will choose whether they ban first or second.

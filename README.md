@@ -12,7 +12,7 @@ The [Super Mario 64 Bingo Guide](https://docs.google.com/document/d/13cVrO2_c435
 * ***ONLY MIPS CLIP TO SKIP 30 STAR DOOR***
 
 ## Bingo Variants
-We have **five** bingo variants for this tournament! The rules for each variant can be found [here](Rules.md#bingo-variants).
+We have **five** bingo variants for this tournament! Here are general descriptions for each variant, but detailed rules for each variant can be found [here](Rules.md#bingo-variants).
 
 ### Standard (1-line) Bingo
 * Collect the grand star in BitS after completing one line on the 5x5 bingo board!
@@ -30,23 +30,32 @@ We have **five** bingo variants for this tournament! The rules for each variant 
 ### Ascend Bingo
 * Start from the bottom of a 7x7 board and race to the top while collecting two "shiny" goals!
 
+## Timeline
+
+Here is a rough timeline for the bracket progression. A more detailed timeline can be found [here](Rules.md#timeline).
+
+* July: Registration and Seeding
+* August - September 5th: All matches before Top 8
+* September 5th - September 12th: Top 8 matches
+* Sep 12th - Sep 20th: Top 4 matches and Grand Finals
+
+## Prize Pool
+
+### ***$100 + Donations/Bits/Subs***
+* Donations contribute what is received after fees
+* Each subscription contributes $2 (assuming tier I, higher tiers will contribute more)
+* The top 3 placements will receive shares of the prize pool according to the following distribution:
+
+| Placement  | Prize |
+| :--------  | :---: |
+| 1st        |  50%  |
+| 2nd        |  30%  |
+| 3rd        |  20%  |
+
+
 ## Useful Links
 The matches will be streamed on Twitch, at [YogoC's](https://twitch.tv/yogoc) and [Benedict's](https://twitch.tv/benedictfleur123) channels.
 
 Join the Discord [here](https://discord.gg/48eMbmENj). Please let us know if the link has expired.
 
-Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScvHECfXNptFEZuV_Kd0oGaQBGDQ9e0aFUTsLHZXOSXJzAFzw/viewform?usp=header)
-
-
-
-## Prize Pool
-
-***$100 + Donations/Bits/Subs***
-* Donations contribute what is received after fees
-* Each subscription contributes $2 (assuming tier I)
-
-| Placement | Prize |
-| --------- | ----- |
-| 1st       | 50%   |
-| 2nd       | 30%   |
-| 3rd       | 20%   |
+Please check the [eligibility requirements](Rules.md#player-eligibility) before signing up. Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScvHECfXNptFEZuV_Kd0oGaQBGDQ9e0aFUTsLHZXOSXJzAFzw/viewform?usp=header)!
