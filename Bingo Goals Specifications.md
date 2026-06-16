@@ -2,6 +2,64 @@
 
 Here is a list of all of the goals and a description of what they mean. X here can be any number that is allowed in the goalsets. Having "/" means these are possible numbers, so "All Stars in 2/3 Stages" means this goal can either appear as 2 or 3 Stages.  Please feel free to reach out to us if you want any clarifications.
 
+## Goals that don't require collecting stars
+
+<details>
+<summary>Lose Mario's Hat</summary>
+
+Lose Mario's hat. You can do so in SSL, SL, and TTM.
+
+</details>
+
+<details>
+<summary>Reach the Castle Roof</summary>
+
+Reach the Castle Roof. You can get up on back right corner of the castle by doing a triple jump on the green slope and sliding towards the castle.
+
+</details>
+
+<details>
+<summary>Obtain 20/25/30/35 Lives</summary>
+
+Reach 20/25/30/35 Lives displayed in the top left HUD.
+
+</details>
+
+<details>
+<summary>Open X Cannons</summary>
+
+Open the cannons in X stages. Talking to the pink bob-omb in a stage counts as one cannon. There are 11 stages with cannons.
+* BOB
+  * Requires beating the BOB King and selecting star 2 or later
+* WF
+  * Requires beating the WF King, collecting the tower star, and selecting star 3 or later
+* JRB
+  * Requires collecting Plunder in the Sunken Ship and selecting star 2 or later
+* CCM
+  * Cannon is always available to open
+* SSL
+  * Cannon is always available to open
+  * Talking to the pink bob-omb with star 2 or later selected will result in the bird stealing your hat during the cutscene. This can be inconvenient but also used intentionally.
+* SL
+  * Cannon is always available to open
+* WDW
+  * Cannon is always available to open
+  * Easiest method is to enter the on the highest water level, you can [collect "Shocking Arrow Lifts!" after](https://youtu.be/m9zzdgPf3z0?si=LtB9LVP4c3SPBjiR).
+* TTM
+  * Cannon is always available to open
+  * [Cool movement to get up](https://www.youtube.com/watch?v=VcmgNZyMVjg)
+* THI
+  * Cannon is always available to open
+* Wing Mario Over the Rainbow
+  * Cannon is always available to open
+  * [Fastest way to stay in tippy is to die](https://youtu.be/g9ty6UQx0RI?si=eAt_5r0Kf_g08sea)
+* RR
+  * Cannon is always available to open
+
+</details>
+
+## Goals about multiple stars
+
 <details>
 <summary>X Stars</summary>
 
@@ -57,20 +115,6 @@ Collect 2/3 toad stars. The basement toad next to HMC spawns at 12 stars. The up
 <summary>Collect 2 Jetstream stars</summary>
 
 Collect "Into the Jetstream (JRB)" and "Into the Jetstream (DDD)" 
-
-</details>
-
-<details>
-<summary>Lose Mario's Hat</summary>
-
-Lose Mario's hat. You can do so in SSL, SL, and TTM.
-
-</details>
-
-<details>
-<summary>Reach the Castle Roof</summary>
-
-Reach the Castle Roof. You can get up on back right corner of the castle by doing a triple jump on the green slope and sliding towards the castle.
 
 </details>
 
@@ -198,39 +242,6 @@ Win 2/3 Character Races. The three races are Footrace with Koopa the Quick in BO
 </details>
 
 <details>
-<summary>Open X Cannons</summary>
-
-Open the cannons in X stages. Talking to the pink bob-omb in a stage counts as one cannon. There are 11 stages with cannons.
-* BOB
-  * Requires beating the BOB King and selecting star 2 or later
-* WF
-  * Requires beating the WF King, collecting the tower star, and selecting star 3 or later
-* JRB
-  * Requires collecting Plunder in the Sunken Ship and selecting star 2 or later
-* CCM
-  * Cannon is always available to open
-* SSL
-  * Cannon is always available to open
-  * Talking to the pink bob-omb with star 2 or later selected will result in the bird stealing your hat during the cutscene. This can be inconvenient but also used intentionally.
-* SL
-  * Cannon is always available to open
-* WDW
-  * Cannon is always available to open
-  * Easiest method is to enter the on the highest water level, you can [collect "Shocking Arrow Lifts!" after](https://youtu.be/m9zzdgPf3z0?si=LtB9LVP4c3SPBjiR).
-* TTM
-  * Cannon is always available to open
-  * [Cool movement to get up](https://www.youtube.com/watch?v=VcmgNZyMVjg)
-* THI
-  * Cannon is always available to open
-* Wing Mario Over the Rainbow
-  * Cannon is always available to open
-  * [Fastest way to stay in tippy is to die](https://youtu.be/g9ty6UQx0RI?si=eAt_5r0Kf_g08sea)
-* RR
-  * Cannon is always available to open
-
-</details>
-
-<details>
 <summary>X Castle Secret Stars</summary>
 
 Collect X Castle Secret Stars. There are 15 total Castle Secret Stars: the 3 Bowser stage red coin stars, the 3 cap stage red coin stars, Secret Aquarium, Wing Mario over the Rainbow, both PSS stars, all 3 toad stars, and both MIPS stars.
@@ -241,13 +252,6 @@ Collect X Castle Secret Stars. There are 15 total Castle Secret Stars: the 3 Bow
 <summary>3/4/5/6 100 Coin Stars</summary>
 
 Collect the 100 coin star in 3/4/5/6 different stages.
-
-</details>
-
-<details>
-<summary>Obtain 20/25/30/35 Lives</summary>
-
-Reach 20/25/30/35 Lives displayed in the top left HUD.
 
 </details>
 
@@ -265,7 +269,7 @@ Collect all 7 Stars (including the 100 coin star) in [Stage A].
 
 </details>
 
-### Single Star Objectives
+## Single Star Objectives
 
 <details>
 <summary>Big Bob-omb on the Summit</summary>
