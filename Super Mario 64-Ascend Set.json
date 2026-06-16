@@ -285,7 +285,9 @@
     },
     {
       "goal": "At least 2 stars from {{X}} stages",
+      "individual_limit": 2,
       "range": [
+        8,
         9,
         10,
         11

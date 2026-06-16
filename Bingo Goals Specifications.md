@@ -129,8 +129,8 @@ Collect a star in X stage(s) while having at least 120/130/140 coins. The most c
 <summary>At least X stars from Y stages</summary>
 
 Collect at least X stars from Y different stages. The possibilities are
-* 2 stars in 9/10/11 stages
-* 3 stars in 5/6/7/8 stages
+* 2 stars in 8/9/10/11 stages
+* 3 stars in 4/5/6/7/8 stages
 * 4 stars in 3/4/5 stages
 
 </details>
