@@ -276,6 +276,7 @@
     {
       "goal": "At least 2 stars from {{X}} stages",
       "range": [
+        9,
         10,
         11
       ],

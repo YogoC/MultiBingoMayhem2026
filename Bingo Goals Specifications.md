@@ -61,28 +61,6 @@ Collect "Into the Jetstream (JRB)" and "Into the Jetstream (DDD)"
 </details>
 
 <details>
-<summary>Star 1 from each stage</summary>
-
-Collect Star #1 in all 15 stages. These are:
-* BOB: Big Bob-omb on the Summit
-* WF: Chip off Whomp's Block
-* JRB: Plunder in the Sunken Ship
-* CCM: Slip Slidin' Away
-* BBH: Go on a Ghost Hunt
-* HMC: Swimming Beast in the Cavern
-* LLL: Boil the Big Bully
-* SSL: In the Talons of the Big Bird
-* DDD: Board Bowser's Sub
-* SL: Snowman's Big Head
-* WDW: Shocking Arrow Lifts!
-* TTM: Scale the Mountain
-* THI: Pluck the Piranha Flower
-* TTC: Roll into the Cage
-* RR: Cruiser Crossing the Rainbow
-
-</details>
-
-<details>
 <summary>Lose Mario's Hat</summary>
 
 Lose Mario's hat. You can do so in SSL, SL, and TTM.
@@ -106,7 +84,32 @@ Collect a star in X stage(s) while having at least 120/130/140 coins. The most c
 <details>
 <summary>At least X stars from Y stages</summary>
 
-Collect at least X stars from Y different stages.
+Collect at least X stars from Y different stages. The possibilities are
+* 2 stars in 9/10/11 stages
+* 3 stars in 5/6/7/8 stages
+* 4 stars in 3/4/5 stages
+
+</details>
+
+<details>
+<summary>Star 1 from each stage</summary>
+
+Collect Star #1 in all 15 stages. These are:
+* BOB: Big Bob-omb on the Summit
+* WF: Chip off Whomp's Block
+* JRB: Plunder in the Sunken Ship
+* CCM: Slip Slidin' Away
+* BBH: Go on a Ghost Hunt
+* HMC: Swimming Beast in the Cavern
+* LLL: Boil the Big Bully
+* SSL: In the Talons of the Big Bird
+* DDD: Board Bowser's Sub
+* SL: Snowman's Big Head
+* WDW: Shocking Arrow Lifts!
+* TTM: Scale the Mountain
+* THI: Pluck the Piranha Flower
+* TTC: Roll into the Cage
+* RR: Cruiser Crossing the Rainbow
 
 </details>
 
@@ -153,9 +156,9 @@ Collect 1 Star in each of these 6 stages: SL, TTM, WDW, THI, TTC, RR.
 </details>
 
 <details>
-<summary>Collect 3/4 Stars from both [Stage 1] and [Stage 2]</summary>
+<summary>Collect 3/4 Stars from both [Stage A] and [Stage B]</summary>
 
-Collect 3/4 stars in each of the two stages listed in the goal.
+Collect 3/4 stars in each of the two stages [Stage A] and [Stage B] listed in the goal.
 
 </details>
 
@@ -249,16 +252,16 @@ Reach 20/25/30/35 Lives displayed in the top left HUD.
 </details>
 
 <details>
-<summary>5/6 Stars in [Stage Y]</summary>
+<summary>5/6 Stars in [Stage A]</summary>
 
-Collect 5/6 out of the 7 stars in [Stage Y]. This can include the 100 coin star.
+Collect 5/6 out of the 7 stars in [Stage A]. This can include the 100 coin star.
 
 </details>
 
 <details>
-<summary>All 7 Stars in [Stage Y]</summary>
+<summary>All 7 Stars in [Stage A]</summary>
 
-Collect all 7 Stars (including the 100 coin star) in [Stage Y].
+Collect all 7 Stars (including the 100 coin star) in [Stage A].
 
 </details>
 
@@ -517,8 +520,8 @@ Collect the Bowser in the Sky Red Coin Star.
 </details>
 
 <details>
-<summary>100 Coin Star in [Stage Y]</summary>
+<summary>100 Coin Star in [Stage A]</summary>
 
-Collect the 100 coin star in [Stage Y].
+Collect the 100 coin star in [Stage A].
 
 </details>
