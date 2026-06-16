@@ -174,6 +174,13 @@ Collect a total of X red coin stars. These can be red coin stars from the main s
 </details>
 
 <details>
+<summary>2/3 Bowser Red Coin Stars</summary>
+
+Collect 2/3 Bowser stage red coin stars.
+
+</details>
+
+<details>
 <summary>Defeat 3/4 Unique Mini-Bosses</summary>
 
 Defeat 3/4 minibosses and collect their stars. The minibosses are BOB King, WF King, SSL Eyerok, and THI Wiggler.
@@ -504,13 +511,6 @@ Collect the Bowser in the Fire Sea Red Coin Star.
 <summary>Bowser in the Sky Red Coin Star</summary>
 
 Collect the Bowser in the Sky Red Coin Star.
-
-</details>
-
-<details>
-<summary>2/3 Bowser Red Coin Stars</summary>
-
-Collect 2/3 Bowser stage red coin stars.
 
 </details>
 
