@@ -262,6 +262,8 @@ Collect all 7 Stars (including the 100 coin star) in [Stage Y].
 
 </details>
 
+### Single Star Objectives
+
 <details>
 <summary>Big Bob-omb on the Summit</summary>
 
