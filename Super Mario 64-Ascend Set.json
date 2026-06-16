@@ -164,7 +164,7 @@
       ]
     },
     {
-      "goal": "Stand Tall on the Four Pillars",
+      "goal": "Stand Tall on the Four Pillars (SSL)",
       "range": [],
       "board_categories": [
         "basement"
@@ -1014,7 +1014,7 @@
       "weighting": 90
     },
     {
-      "goal": "Unlock {{X}} Cannons",
+      "goal": "Open {{X}} Cannons",
       "range": [
         3,
         4,
@@ -1039,7 +1039,7 @@
       "progressive_ranges": true
     },
     {
-      "goal": "Unlock {{X}} Cannons",
+      "goal": "Open {{X}} Cannons",
       "range": [
         7,
         8
@@ -1061,7 +1061,7 @@
       ]
     },
     {
-      "goal": "Unlock {{X}} Cannons",
+      "goal": "Open {{X}} Cannons",
       "range": [
         10,
         11
@@ -1953,7 +1953,7 @@
       ]
     },
     {
-      "goal": "Ride Big Boo's Merry-Go-Round",
+      "goal": "Ride Big Boo's Merry-Go-Round (BBH)",
       "range": [],
       "board_categories": [
         "mainfloor"
@@ -1973,7 +1973,7 @@
       ]
     },
     {
-      "goal": "Into the Igloo",
+      "goal": "Into the Igloo (SL)",
       "range": [],
       "board_categories": [
         "secondfloor"
@@ -2257,7 +2257,7 @@
       ]
     },
     {
-      "goal": "Make Wiggler Squirm",
+      "goal": "Make Wiggler Squirm (THI)",
       "range": [],
       "board_categories": [
         "secondfloor"
@@ -2445,7 +2445,7 @@
       ]
     },
     {
-      "goal": "Navigating the Toxic Maze",
+      "goal": "Navigating the Toxic Maze (HMC)",
       "range": [],
       "board_categories": [
         "basement"
@@ -2483,7 +2483,7 @@
       ]
     },
     {
-      "goal": "JRB {{X}} Coins",
+      "goal": "{{X}} Coin Star in JRB",
       "range": [
         100
       ],
@@ -2504,7 +2504,7 @@
       ]
     },
     {
-      "goal": "CCM {{X}} Coins",
+      "goal": "{{X}} Coin Star in CCM",
       "range": [
         100
       ],
@@ -2525,7 +2525,7 @@
       ]
     },
     {
-      "goal": "BOB {{X}} Coins",
+      "goal": "{{X}} Coin Star in BOB",
       "range": [
         100
       ],
@@ -2546,7 +2546,7 @@
       ]
     },
     {
-      "goal": "TTM {{X}} Coins",
+      "goal": "{{X}} Coin Star in TTM",
       "range": [
         100
       ],
@@ -2567,7 +2567,7 @@
       ]
     },
     {
-      "goal": "TTC {{X}} Coins",
+      "goal": "{{X}} Coin Star in TTC",
       "range": [
         100
       ],
@@ -2588,7 +2588,7 @@
       ]
     },
     {
-      "goal": "RR {{X}} Coins",
+      "goal": "{{X}} Coin Star in RR",
       "range": [
         100
       ],
@@ -2609,7 +2609,7 @@
       ]
     },
     {
-      "goal": "THI {{X}} Coins",
+      "goal": "{{X}} Coin Star in THI",
       "range": [
         100
       ],
@@ -2630,7 +2630,7 @@
       ]
     },
     {
-      "goal": "WDW {{X}} Coins",
+      "goal": "{{X}} Coin Star in WDW",
       "range": [
         100
       ],
@@ -2651,7 +2651,7 @@
       ]
     },
     {
-      "goal": "SL {{X}} Coins",
+      "goal": "{{X}} Coin Star in SL",
       "range": [
         100
       ],
@@ -2672,7 +2672,7 @@
       ]
     },
     {
-      "goal": "BBH {{X}} Coins",
+      "goal": "{{X}} Coin Star in BBH",
       "range": [
         100
       ],
@@ -2694,7 +2694,7 @@
       ]
     },
     {
-      "goal": "SSL {{X}} Coins",
+      "goal": "{{X}} Coin Star in SSL",
       "range": [
         100
       ],
@@ -2715,7 +2715,7 @@
       ]
     },
     {
-      "goal": "DDD {{X}} Coins",
+      "goal": "{{X}} Coin Star in DDD",
       "range": [
         100
       ],
@@ -2736,7 +2736,7 @@
       ]
     },
     {
-      "goal": "LLL {{X}} Coins",
+      "goal": "{{X}} Coin Star in LLL",
       "range": [
         100
       ],
@@ -2757,7 +2757,7 @@
       ]
     },
     {
-      "goal": "HMC {{X}} Coins",
+      "goal": "{{X}} Coin Star in HMC",
       "range": [
         100
       ],
@@ -2778,7 +2778,7 @@
       ]
     },
     {
-      "goal": "WF {{X}} Coins",
+      "goal": "{{X}} Coin Star in WF",
       "range": [
         100
       ],
