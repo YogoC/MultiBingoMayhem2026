@@ -281,14 +281,14 @@ Defeat the BOB King and collect the star.
 <details>
 <summary>Find the 8 Red Coins (BOB)</summary>
 
-Red Coin Star in BOB
+Collect the red coin star in BOB.
 
 </details>
 
 <details>
 <summary>Mario Wings to the Sky (BOB)</summary>
 
-Mario Wings to the Sky (BOB).
+Collect the shiny secrets star in BOB. This requires opening the cannon unless you want to do some really hard flying.
 
 </details>
 
