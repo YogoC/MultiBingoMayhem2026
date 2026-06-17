@@ -15,7 +15,7 @@ In this document, you can find all of the rules and details about the tournament
 
 * Announcement - July 29th: Registration and Seeding
 * July 30th: Bracket released, Scheduling Begins
-* Aug 1st - Aug 11th: Round 1
+* July 31st - Aug 11th: Round 1
 * Aug 12th - Aug 22nd: Round 2 + Losers Round 1
 * Aug 22nd - Aug 26th: Losers Round 2
 * Aug 26th - Sep 2nd: Round 3 + Losers Round 3
