@@ -1,6 +1,6 @@
 # Tournament Rules
 
-In this document, you can find all of the rules and details about the tournament.
+In this document, you can find all of the rules and details about the tournament. Please reach out to the hosts in Discord if you have any questions.
 
 ## Player Eligibility
 * All entrants must have at least one run submitted to the [Super Mario 64 leaderboards on speedrun.com](https://www.speedrun.com/sm64).
