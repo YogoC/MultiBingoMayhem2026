@@ -36,13 +36,22 @@ This timeline provides a tentative estimate of the tournament progression. Playe
 * Players are not allowed to watch the main stream, their opponent's gameplay, or have any stream chat open during their races. Violating this may result in immediate disqualification.
 * All matches before the Top 8 (Winners Semifinals + Losers Round 5) will be a single game (Best of 1). Once we reach Top 8, all matches will be Best of 3 (First to 2).
 
-### Variant selection
-For each match, variants will be selected through a pick/ban system. For the first game, the player with the higher (better) seed will choose whether they ban first or second.
-* First player bans one variant.
-* Second player bans two variants.
-* First player chooses among the remaining two variants.
+## Variant selection
+For each match, variants will be selected through a pick/ban system. 
+
+#### Game 1
+We will use a coinflip to establish who decides whether they ban first or second. The first variant is then decided by the following process:
+1. First player bans one variant.
+2. Second player bans two variants.
+3. First player chooses among the remaining two variants.
+
+#### Games 2 and 3
 
 In Best of 3 matches, for games after the first, variants already played in the match cannot be repeated. The winner of the previous game bans one variant from the remaining pool, and the loser picks from the variants that are left.
+
+#### Bracket Reset
+
+In Grand Finals, in the case of a Bracket Reset, the loser of the first set decides whether they ban first or second.
 
 ## Bingo Variants
 
