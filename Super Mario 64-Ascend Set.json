@@ -22,7 +22,14 @@
       "line_categories": [
         "collectstars"
       ],
-      "icons": [],
+      "icons": [
+        "sm64/bob_7_star.webp",
+        "sm64/wf_7_star.webp",
+        "sm64/lll_7_star.webp",
+        "sm64/ttm_7_star.webp",
+        "sm64/wdw_7_star.webp",
+        "sm64/ttc_7_star.webp"
+      ],
       "progression": [
         "l",
         "n"
@@ -94,7 +101,9 @@
         "lll"
       ],
       "tooltip": "Collect Stars 1-2 in BOB and Stars 1-4 in LLL",
-      "icons": [],
+      "icons": [
+        "sm64/bob_lll_shell.webp"
+      ],
       "progression": [
         "e",
         "m"
@@ -190,7 +199,9 @@
         "collectstars"
       ],
       "tooltip": "Collect Star no. 1 in all 15 stages",
-      "icons": [],
+      "icons": [
+        "sm64/star_1_all_course.webp"
+      ],
       "progression": [
         "l",
         "n"
@@ -208,7 +219,9 @@
         "ssl",
         "ttm"
       ],
-      "icons": [],
+      "icons": [
+        "sm64/no_cap.webp"
+      ],
       "progression": [
         "e",
         "m"
@@ -221,7 +234,9 @@
         "mainfloor"
       ],
       "line_categories": [],
-      "icons": [],
+      "icons": [
+        "sm64/roof.webp"
+      ],
       "progression": [
         "e",
         "m"
@@ -246,7 +261,9 @@
         "wf"
       ],
       "tooltip": "Collect a star in {{X}} stage(s) while having at least 130 coins",
-      "icons": [],
+      "icons": [
+        "sm64/130_coin.webp"
+      ],
       "progression": [
         "e",
         "m",
@@ -274,7 +291,9 @@
         "wf"
       ],
       "tooltip": "Collect a star in {{X}} stage(s) while having at least 140 coins",
-      "icons": [],
+      "icons": [
+        "sm64/140_coin.webp"
+      ],
       "progression": [
         "e",
         "m",
@@ -299,7 +318,14 @@
       "line_categories": [
         "collectstars"
       ],
-      "icons": [],
+      "icons": [
+        "sm64/bob_2_star.webp",
+        "sm64/wf_2_star.webp",
+        "sm64/lll_2_star.webp",
+        "sm64/ttm_2_star.webp",
+        "sm64/wdw_2_star.webp",
+        "sm64/ttc_2_star.webp"
+      ],
       "progression": [
         "l",
         "n"
@@ -320,7 +346,14 @@
       "line_categories": [
         "collectstars"
       ],
-      "icons": [],
+      "icons": [
+        "sm64/bob_3_star.webp",
+        "sm64/wf_3_star.webp",
+        "sm64/lll_3_star.webp",
+        "sm64/ttm_3_star.webp",
+        "sm64/wdw_3_star.webp",
+        "sm64/ttc_3_star.webp"
+      ],
       "progression": [
         "l",
         "n"
@@ -343,7 +376,14 @@
       "line_categories": [
         "collectstars"
       ],
-      "icons": [],
+      "icons": [
+        "sm64/bob_3_star.webp",
+        "sm64/wf_3_star.webp",
+        "sm64/lll_3_star.webp",
+        "sm64/ttm_3_star.webp",
+        "sm64/wdw_3_star.webp",
+        "sm64/ttc_3_star.webp"
+      ],
       "progression": [
         "m",
         "l"
@@ -359,7 +399,9 @@
         "collectstars"
       ],
       "tooltip": "Collect at least one star in all 15 stages",
-      "icons": [],
+      "icons": [
+        "sm64/all_course_1_star.webp"
+      ],
       "progression": [
         "l",
         "n"
@@ -651,7 +693,9 @@
         "lll"
       ],
       "tooltip": "Collect {{X}} stars in each of the two stages",
-      "icons": [],
+      "icons": [
+        "sm64/bbh_lll_star.webp"
+      ],
       "progression": [
         "m",
         "l"
@@ -672,7 +716,9 @@
         "bbh"
       ],
       "tooltip": "Collect {{X}} stars in each of the two stages",
-      "icons": [],
+      "icons": [
+        "sm64/jrb_bbh_star.webp"
+      ],
       "progression": [
         "m",
         "l"
@@ -717,7 +763,9 @@
         "ssl"
       ],
       "tooltip": "Collect {{X}} stars in each of the two stages",
-      "icons": [],
+      "icons": [
+        "sm64/hmc_ssl_star.webp"
+      ],
       "progression": [
         "e",
         "m",
@@ -2071,7 +2119,7 @@
       ],
       "tooltip": "Cruiser Star in RR",
       "icons": [
-        "feather_rr.webp"
+        "sm64/cruiser_rr.webp"
       ],
       "progression": [
         "m",
