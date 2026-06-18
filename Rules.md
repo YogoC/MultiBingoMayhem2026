@@ -25,7 +25,7 @@ In this document, you can find all of the rules and details about the tournament
 * Sep 12th - Sep 17th: Winners Finals + Losers Semifinals (Top 4)
 * Sep 17th - Sep 20th: Losers Finals + Grand Finals
 
-This timeline provides a tentative estimate of the tournament progression. Players should expect to be available to play a match in all of these intervals (especially if they expect to make it further in the tournament). Any significant delays from scheduling will result in a forfeit.
+This timeline provides a tentative estimate of the tournament progression. It will be updated as the total number of players becomes more clear. Players should expect to be available to play a match in all of these intervals (especially if they expect to make it further in the tournament). Any significant delays from scheduling will result in a forfeit.
 
 ## Match Rules
 
