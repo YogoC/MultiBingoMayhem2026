@@ -11,12 +11,21 @@ In this document, you can find all of the rules and details about the tournament
 * Players must be available to play at least once a week starting August 1st, 2026. In the Losers Bracket, players are expected to play up to two matches a week.
 * Players must be able to have their gameplay, bingo board, and the board's timer on their layout.
 
+## Tournament Structure
+
+* Entry will be capped at 32 participants. Still sign up in case of drop outs!
+* Seeding will be based on 16/70/120 PBs. The PBs will be weighted by category length and distance to the current world records.
+* Structure will be updated based on sign-ups
+* Double elimination bracket
+  * Single-game matches (Best of 1) until Top 8
+  * Top 8 (Winners Semifinals + Losers Round 5 and onwards) matches will be Best of 3 (First to 2).
+
 ## Timeline
 
-* Announcement - July 29th: Registration and Seeding
-* July 30th: Bracket released, Scheduling Begins
-* July 31st - Aug 11th: Round 1
-* Aug 12th - Aug 22nd: Round 2 + Losers Round 1
+* Announcement - July 31st: Registration and Seeding
+* August 1st: Bracket released, Scheduling begins
+* August 3rd - Aug 14th: Round 1
+* Aug 14th - Aug 22nd: Round 2 + Losers Round 1
 * Aug 22nd - Aug 26th: Losers Round 2
 * Aug 26th - Sep 2nd: Round 3 + Losers Round 3
 * Sep 2nd - Sep 6th: Losers Round 4
@@ -34,7 +43,7 @@ This timeline provides a tentative estimate of the tournament progression. It wi
 * Players must have their gameplay, bingo board, and the board timer on their layout at all times.
 * The board is revealed when timing starts.
 * Players are not allowed to watch the main stream, their opponent's gameplay, or have any stream chat open during their races. Violating this may result in immediate disqualification.
-* All matches before the Top 8 (Winners Semifinals + Losers Round 5) will be a single game (Best of 1). Once we reach Top 8, all matches will be Best of 3 (First to 2).
+* All matches before the Top 8 (Winners Semifinals + Losers Round 5 for a full bracket) will be a single game (Best of 1). Once we reach Top 8, all matches will be Best of 3 (First to 2).
 
 ## Variant selection
 For each match, variants will be selected through a pick/ban system. 

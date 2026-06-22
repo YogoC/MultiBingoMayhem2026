@@ -1,9 +1,9 @@
 # Multi Bingo Mayhem 2026
 
 ## Overview
-Welcome to Multi Bingo Mayhem 2026! This is a Super Mario 64 Variety Bingo Tournament with 5 different kinds of bingo where each match has bingo variants that are up to the players! This tournament is a Double-Elimination bracket, where the top 3 runners split the prize pool! Revenue from Twitch subscriptions and bits/donations will be added to the initial $100 prize pool!
+Welcome to Multi Bingo Mayhem 2026! This is a Super Mario 64 Multi Bingo Tournament with 5 different kinds of bingo where each match has bingo variants selected by the players! This tournament is a Double-Elimination bracket, where the top 3 runners split the prize pool! Revenue from Twitch subscriptions and bits/donations will be added to the initial $100 prize pool!
 
-The [Super Mario 64 Bingo Guide](https://docs.google.com/document/d/13cVrO2_c435ysJOeOyZMzo0AFFWDLGleZ5UTPoCDOxM/edit?tab=t.0#heading=h.3znysh7) has a lot of information about the general rules of the game, some goals that may not be super clear at first, and some routes that come up only in bingo. We highly recommend looking through it! Most importantly:
+The [Super Mario 64 Bingo Guide](https://docs.google.com/document/d/13cVrO2_c435ysJOeOyZMzo0AFFWDLGleZ5UTPoCDOxM/edit?tab=t.0#heading=h.3znysh7) has a lot of information about the general rules of the game, some goals that may not be super clear at first, and some routes that come up only in bingo. I highly recommend looking through it! Most importantly:
 
 ### All bingo variants have ***16 Star No LBLJ*** Rules applied. This means:
 
@@ -12,10 +12,10 @@ The [Super Mario 64 Bingo Guide](https://docs.google.com/document/d/13cVrO2_c435
 * ***ONLY MIPS CLIP TO SKIP 30 STAR DOOR***
 
 ## Bingo Goals
-We are using an expanded goalset compared to the set on [Bingosync](https://bingosync.com/)! In order to accomodate the new goals and different board sizes, we will be using [Lockout.Live](https://lockout.live/)! At the moment, the goals are not on the site, but we are hoping to have them on soon! You can find the `.json` for the goalset [here](Super%20Mario%2064-Standard%205x5%20Set.json). A list of all of the goals and explanations for them can be found [here](Bingo%20Goals%20Specifications.md).
+The tournament will use an expanded goalset compared to the set on [Bingosync](https://bingosync.com/)! In order to accomodate the new goals and different board sizes, we will be using [Lockout.Live](https://lockout.live/)! At the moment, the goals are not on the site, but we are hoping to have them on soon! You can find the `.json` for the goalset [here](Super%20Mario%2064-Standard%205x5%20Set.json). A list of all of the goals and explanations for them can be found [here](Bingo%20Goals%20Specifications.md).
 
 ## Bingo Variants
-We have **five** bingo variants for this tournament! Here are general descriptions for each variant, but detailed rules for each variant can be found [here](Rules.md#bingo-variants).
+The tournament has **five** bingo variants! Here are general descriptions for each variant, but detailed rules for each variant can be found in the [Rules document](Rules.md#bingo-variants).
 
 ### Standard (1-line) Bingo
 * Collect the grand star in BitS after completing one line on the 5x5 bingo board!
@@ -45,7 +45,7 @@ Here is a rough timeline for the bracket progression. A more detailed timeline c
 ## Prize Pool
 
 ### ***$100 + Donations/Bits/Subs***
-* Donations contribute what is received after fees
+* Donations contribute what is received after fees (Donate [here](https://streamlabs.com/yogoc/tip)!)
 * Each subscription contributes $2 (assuming tier I, higher tiers will contribute more)
 * The top 3 placements will receive shares of the prize pool according to the following distribution:
 
@@ -57,10 +57,16 @@ Here is a rough timeline for the bracket progression. A more detailed timeline c
 
 
 ## Useful Links
-The matches will be streamed on Twitch, at [YogoC's](https://twitch.tv/yogoc) and [Benedict's](https://twitch.tv/benedictfleur123) channels.
+The matches will be streamed on Twitch at [YogoC](https://twitch.tv/yogoc)'s twitch channel.
 
-Join the Discord [here](https://discord.gg/48eMbmENj). Please let us know if the link has expired.
+Join the Discord [here](https://discord.gg/48eMbmENj). Please let me know if the link has expired.
 
 Please check the [eligibility requirements](Rules.md#player-eligibility) before signing up. Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScvHECfXNptFEZuV_Kd0oGaQBGDQ9e0aFUTsLHZXOSXJzAFzw/viewform?usp=header)!
 
 We are looking for commentators for the matches! Sign up to commentate [here](https://docs.google.com/forms/d/e/1FAIpQLSduewR2DV2EXsfCWbHjmPheQPPr8d06--rpSUktTmeGpMA-JA/viewform?usp=header)!
+
+Contribute to the prizepool by donating [here](https://streamlabs.com/yogoc/tip)!
+
+### Acknowledgements
+
+Thanks to [Benedict](https://twitch.tv/benedictfleur123) for help with making the goalset, testing, proofreading, and general organizational help.
