@@ -2,6 +2,20 @@
 
 In this document, you can find all of the rules and details about the tournament. Please reach out to the hosts in Discord if you have any questions.
 
+## Table of Contents
+* [Player Eligibility](#player-eligibility)
+* [Tournament Structure](#tournament-structure)
+* [Timeline](#timeline)
+* [Match Rules](#match-rules)
+  * [Variant Selection](#variant-selection)
+* [Bingo Variants](#bingo-variants)
+  * [Standard Bingo](#standard-bingo)
+  * [Triple Bingo](#triple-bingo)
+  * [Lockout Bingo](#lockout-bingo)
+  * [Double Anti Bingo](#double-anti-bingo)
+  * [Ascend Bingo](#ascend-bingo)
+* [Goalset](#goalset)
+
 ## Player Eligibility
 * All entrants must have at least one run submitted to the [Super Mario 64 leaderboards on speedrun.com](https://www.speedrun.com/sm64).
 * All entrants must play on a platform and version that is accepted on the leaderboards. The restrictions on each platform are expressed in their respective Category Rules on speedrun.com.
@@ -96,3 +110,7 @@ Here are the detailed descriptions for each variant to be used in the tournament
 * Timing ends when the last goal needed to win is marked (*there is no need to collect the grand star*). This can either be a goal on the top row (if two shiny goals have already been collected) or the second shiny goal (if a goal on the top row has already been collected).
 * Goals are not unmarked. However, to finish the game, there must be a connected path from the bottom to the shiny and the top goals that are all satisfied.
   * For example, if "Lose Mario's Hat" is a goal on the board, you can lose the hat, mark the goal, then get the hat back. However, if your path from bottom row to top row or shiny goals is dependent on "Lose Mario's Hat", you must lose Mario's hat in order to finish the game.
+
+## Goalset
+
+We are using a custom goalset that will be available on [Lockout.Live](https://lockout.live/)! This is also the website we will be using for matches. You can find the `.json` for the goalset [here](Super%20Mario%2064-Standard%205x5%20Set.json). A list of all of the goals and explanations for them can be found [here](Bingo%20Goals%20Specifications.md).

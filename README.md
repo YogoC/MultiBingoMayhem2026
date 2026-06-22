@@ -1,5 +1,14 @@
 # Multi Bingo Mayhem 2026
 
+## Table of Contents
+* [Overview](#overview)
+* [Bingo Goals](#bingo-goals)
+* [Bingo Variants](#bingo-variants)
+* [Timeline](#timeline)
+* [Prize Pool](#prize-pool)
+* [Useful Links](#useful-links)
+* [Acknowledgements](#acknowledgements)
+
 ## Overview
 Welcome to Multi Bingo Mayhem 2026! This is a Super Mario 64 Multi Bingo Tournament with 5 different kinds of bingo where each match has bingo variants selected by the players! This tournament is a Double-Elimination bracket, where the top 3 runners split the prize pool! Revenue from Twitch subscriptions and bits/donations will be added to the initial $100 prize pool!
 
@@ -70,3 +79,5 @@ Contribute to the prizepool by donating [here](https://streamlabs.com/yogoc/tip)
 ### Acknowledgements
 
 Thanks to [Benedict](https://twitch.tv/benedictfleur123) for help with making the goalset, playtesting, proofreading, and general organizational help.
+
+Thank you all who helped playtest the goals and give feedback over the past few months!
