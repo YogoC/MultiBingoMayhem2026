@@ -61,9 +61,9 @@ The matches will be streamed on Twitch at [YogoC](https://twitch.tv/yogoc)'s twi
 
 Join the Discord [here](https://discord.gg/48eMbmENj). Please let me know if the link has expired.
 
-Please check the [eligibility requirements](Rules.md#player-eligibility) before signing up. Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScvHECfXNptFEZuV_Kd0oGaQBGDQ9e0aFUTsLHZXOSXJzAFzw/viewform?usp=header)!
+Please check the [eligibility requirements](Rules.md#player-eligibility) before signing up. Sign up [here](https://forms.gle/MU6oicLJe1gMk8gNA)!
 
-We are looking for commentators for the matches! Sign up to commentate [here](https://docs.google.com/forms/d/e/1FAIpQLSduewR2DV2EXsfCWbHjmPheQPPr8d06--rpSUktTmeGpMA-JA/viewform?usp=header)!
+We are looking for commentators for the matches! Sign up to commentate [here](https://forms.gle/At4xMpC8H4tfGj2S7)!
 
 Contribute to the prizepool by donating [here](https://streamlabs.com/yogoc/tip)!
 
