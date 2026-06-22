@@ -45,7 +45,7 @@ This timeline provides a tentative estimate of the tournament progression. It wi
 * Players are not allowed to watch the main stream, their opponent's gameplay, or have any stream chat open during their races. Violating this may result in immediate disqualification.
 * All matches before the Top 8 (Winners Semifinals + Losers Round 5 for a full bracket) will be a single game (Best of 1). Once we reach Top 8, all matches will be Best of 3 (First to 2).
 
-## Variant selection
+### Variant selection
 For each match, variants will be selected through a pick/ban system. 
 
 #### Game 1
