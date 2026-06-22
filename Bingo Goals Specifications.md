@@ -63,7 +63,7 @@ Open the cannons in X stages. Talking to the pink bob-omb in a stage counts as o
 <details>
 <summary>X Stars</summary>
 
-Collect a total of X Stars
+Collect a total of X Stars.
 
 </details>
 
@@ -114,7 +114,7 @@ Collect 2/3 toad stars. The basement toad next to HMC spawns at 12 stars. The up
 <details>
 <summary>Collect 2 Jetstream stars</summary>
 
-Collect "Into the Jetstream (JRB)" and "Into the Jetstream (DDD)" 
+Collect both "Into the Jetstream (JRB)" and "Into the Jetstream (DDD)".
 
 </details>
 
@@ -167,7 +167,7 @@ Collect at least one star in all 15 stages. This can be any star.
 <details>
 <summary>Obtain 1/2/3 Cap Red Coin Stars</summary>
 
-Obtain 1/2/3 Cap Red Coin Stars. You do not necessarily have to hit the switches.
+Obtain 1/2/3 Cap Red Coin Stars. You do not necessarily have to hit the cap switches.
 
 </details>
 
@@ -202,7 +202,15 @@ Collect 1 Star in each of these 6 stages: SL, TTM, WDW, THI, TTC, RR.
 <details>
 <summary>Collect 3/4 Stars from both [Stage A] and [Stage B]</summary>
 
-Collect 3/4 stars in each of the two stages [Stage A] and [Stage B] listed in the goal.
+Collect 3/4 stars in each of the two stages [Stage A] and [Stage B] listed in the goal. The possible pairs are
+* SL and WDW
+* TTC and RR
+* TTM and THI
+* BOB and CCM
+* BBH and LLL
+* JRB and BBH
+* JRB and DDD
+* HMC and SSL
 
 </details>
 
@@ -258,14 +266,14 @@ Collect the 100 coin star in 3/4/5/6 different stages.
 <details>
 <summary>5/6 Stars in [Stage A]</summary>
 
-Collect 5/6 out of the 7 stars in [Stage A]. This can include the 100 coin star.
+Collect 5/6 out of the 7 stars in [Stage A]. This can include the 100 coin star. This goal can appear for any of the 15 main stages with the exception of WF, LLL, and TTC.
 
 </details>
 
 <details>
 <summary>All 7 Stars in [Stage A]</summary>
 
-Collect all 7 Stars (including the 100 coin star) in [Stage A].
+Collect all 7 Stars (including the 100 coin star) in [Stage A]. This goal can appear for any of the 15 main stages.
 
 </details>
 
@@ -526,6 +534,6 @@ Collect the Bowser in the Sky Red Coin Star.
 <details>
 <summary>100 Coin Star in [Stage A]</summary>
 
-Collect the 100 coin star in [Stage A].
+Collect the 100 coin star in [Stage A]. This can appear for any of the 15 main stages.
 
 </details>
