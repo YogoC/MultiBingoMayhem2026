@@ -69,4 +69,4 @@ Contribute to the prizepool by donating [here](https://streamlabs.com/yogoc/tip)
 
 ### Acknowledgements
 
-Thanks to [Benedict](https://twitch.tv/benedictfleur123) for help with making the goalset, testing, proofreading, and general organizational help.
+Thanks to [Benedict](https://twitch.tv/benedictfleur123) for help with making the goalset, playtesting, proofreading, and general organizational help.
