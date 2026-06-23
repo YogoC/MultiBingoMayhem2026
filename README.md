@@ -68,7 +68,7 @@ Here is a rough timeline for the bracket progression. A more detailed timeline c
 ## Useful Links
 The matches will be streamed on Twitch at [YogoC](https://twitch.tv/yogoc)'s twitch channel.
 
-Join the Discord [here](https://discord.gg/48eMbmENj). Please let me know if the link has expired.
+Join the Discord [here](https://discord.gg/stajab7PH). Please let me know if the link has expired.
 
 Please check the [eligibility requirements](Rules.md#player-eligibility) before signing up. Sign up [here](https://forms.gle/MU6oicLJe1gMk8gNA)!
 
