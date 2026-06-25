@@ -21,7 +21,7 @@ The [Super Mario 64 Bingo Guide](https://docs.google.com/document/d/13cVrO2_c435
 * ***ONLY MIPS CLIP TO SKIP 30 STAR DOOR***
 
 ## Bingo Goals
-The tournament will use an expanded goalset compared to the set on [Bingosync](https://bingosync.com/)! In order to accomodate the new goals and different board sizes, we will be using [Lockout.Live](https://lockout.live/)! At the moment, the goals are not on the site, but we are hoping to have them on soon! You can find the `.json` for the goalset [here](Super%20Mario%2064-Standard%205x5%20Set.json). A list of all of the goals and explanations for them can be found [here](Bingo%20Goals%20Specifications.md).
+The tournament will use an expanded goalset compared to the set on [Bingosync](https://bingosync.com/)! In order to accomodate the new goals and different board sizes, we will be using [Lockout.Live](https://lockout.live/)! At the moment, the goals are not on the site, but we are hoping to have them on soon! You can find the `.json` for the goalset [here](Super%20Mario%2064-Tournament%20Standard%20Set.json). A list of all of the goals and explanations for them can be found [here](Bingo%20Goals%20Specifications.md).
 
 ## Bingo Variants
 The tournament has **five** bingo variants! Here are general descriptions for each variant, but detailed rules for each variant can be found in the [Rules document](Rules.md#bingo-variants).

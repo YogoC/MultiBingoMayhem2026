@@ -113,4 +113,4 @@ Here are the detailed descriptions for each variant to be used in the tournament
 
 ## Goalset
 
-We are using a custom goalset that will be available on [Lockout.Live](https://lockout.live/)! This is also the website we will be using for matches. You can find the `.json` for the goalset [here](Super%20Mario%2064-Standard%205x5%20Set.json). A list of all of the goals and explanations for them can be found [here](Bingo%20Goals%20Specifications.md).
+We are using a custom goalset that will be available on [Lockout.Live](https://lockout.live/)! This is also the website we will be using for matches. You can find the `.json` for the goalset [here](Super%20Mario%2064-Tournament%20Standard%20Set.json). A list of all of the goals and explanations for them can be found [here](Bingo%20Goals%20Specifications.md).
