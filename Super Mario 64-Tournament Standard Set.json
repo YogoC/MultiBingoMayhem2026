@@ -30,8 +30,8 @@
         "l",
         "n"
       ],
-      "progressive_ranges": true,
-      "weighting": 90
+      "weighting": 90,
+      "progressive_ranges": true
     },
     {
       "goal": "Collect {{X}} Chest Stars",
@@ -44,9 +44,9 @@
         "mainfloor"
       ],
       "line_categories": [
+        "collectstars",
         "ddd",
-        "jrb",
-        "collectstars"
+        "jrb"
       ],
       "tooltip": "JRB Ship, JRB Chests, DDD Chests",
       "icons": [
@@ -93,8 +93,8 @@
       ],
       "line_categories": [
         "bob",
-        "lll",
-        "collectstars"
+        "collectstars",
+        "lll"
       ],
       "tooltip": "Collect Stars 1-2 in BOB and Stars 1-4 in LLL",
       "icons": [
@@ -106,15 +106,15 @@
       ]
     },
     {
-      "goal": "All three Bully stars",
+      "goal": "All Three Bully Stars",
       "range": [],
       "board_categories": [
         "secondfloor"
       ],
       "line_categories": [
+        "collectstars",
         "lll",
-        "sl",
-        "collectstars"
+        "sl"
       ],
       "tooltip": "Boil the Big Bully (LLL), Bully the Bullies (LLL), and Chill with the Bully (SL)",
       "icons": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "goal": "Collect {{X}} toad stars",
+      "goal": "Collect {{X}} Toad Stars",
       "range": [
         2,
         3
@@ -148,7 +148,7 @@
       "progressive_ranges": true
     },
     {
-      "goal": "Collect {{X}} Jetstream stars",
+      "goal": "Collect {{X}} Jet Stream Stars",
       "range": [
         2
       ],
@@ -175,8 +175,8 @@
         "basement"
       ],
       "line_categories": [
-        "ssl",
-        "singlestar"
+        "singlestar",
+        "ssl"
       ],
       "icons": [
         "sm64/eyerok.webp"
@@ -237,15 +237,15 @@
       ]
     },
     {
-      "goal": "Collect 130 Coins in {{X}} stage(s)",
+      "goal": "Collect 130 Coins in {{X}} Stage[[s]]",
       "range": [
         1,
         2
       ],
       "individual_limit": 2,
       "board_categories": [
-        "over100coins",
         "mainfloor",
+        "over100coins",
         "secondfloor"
       ],
       "line_categories": [
@@ -265,15 +265,15 @@
       "progressive_ranges": true
     },
     {
-      "goal": "Collect 140 Coins in {{X}} stage(s)",
+      "goal": "Collect 140 Coins in {{X}} Stage[[s]]",
       "range": [
         1,
         2
       ],
       "individual_limit": 2,
       "board_categories": [
-        "over100coins",
         "mainfloor",
+        "over100coins",
         "secondfloor"
       ],
       "line_categories": [
@@ -293,14 +293,14 @@
       "progressive_ranges": true
     },
     {
-      "goal": "At least 2 stars from {{X}} stages",
-      "individual_limit": 2,
+      "goal": "At Least 2 Stars from {{X}} Stages",
       "range": [
         8,
         9,
         10,
         11
       ],
+      "individual_limit": 2,
       "board_categories": [
         "secondfloor",
         "thirdfloor"
@@ -323,7 +323,7 @@
       "weighting": 90
     },
     {
-      "goal": "At least 3 stars from {{X}} stages",
+      "goal": "At Least 3 Stars from {{X}} Stages",
       "range": [
         7,
         8
@@ -351,7 +351,7 @@
       "weighting": 90
     },
     {
-      "goal": "At least 3 stars from {{X}} stages",
+      "goal": "At Least 3 Stars from {{X}} Stages",
       "range": [
         4,
         5,
@@ -380,7 +380,7 @@
       ]
     },
     {
-      "goal": "At Least 1 Star From Each Stage",
+      "goal": "At Least 1 Star from Each Stage",
       "range": [],
       "board_categories": [
         "thirdfloor"
@@ -499,7 +499,7 @@
       ]
     },
     {
-      "goal": "Collect {{X}} Star from each stage in the lobby and basement",
+      "goal": "Collect {{X}} Star from each Stage in the Lobby and Basement",
       "range": [
         1
       ],
@@ -546,7 +546,7 @@
       ]
     },
     {
-      "goal": "Collect {{X}} Star from each stage in upstairs and tippy",
+      "goal": "Collect {{X}} Star from each Stage Upstairs and Tippy",
       "range": [
         1
       ],
@@ -696,9 +696,9 @@
         "mainfloor"
       ],
       "line_categories": [
+        "bbh",
         "collectstars",
-        "jrb",
-        "bbh"
+        "jrb"
       ],
       "tooltip": "Collect {{X}} stars in each of the two stages",
       "icons": [
@@ -783,8 +783,8 @@
         "m",
         "l"
       ],
-      "progressive_ranges": true,
-      "weighting": 70
+      "weighting": 70,
+      "progressive_ranges": true
     },
     {
       "goal": "Collect {{X}} Red Coin Stars From Main Stages",
@@ -812,8 +812,8 @@
         "l",
         "n"
       ],
-      "progressive_ranges": true,
-      "weighting": 70
+      "weighting": 70,
+      "progressive_ranges": true
     },
     {
       "goal": "Collect {{X}} Red Coin Stars From Main Stages",
@@ -945,8 +945,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "thi",
-        "singlestar"
+        "singlestar",
+        "thi"
       ],
       "tooltip": "Win the race against Koopa the Quick in THI and collect the star",
       "icons": [
@@ -983,7 +983,7 @@
       "progressive_ranges": true
     },
     {
-      "goal": "At least 4 Stars from {{X}} stages",
+      "goal": "At Least 4 Stars from {{X}} Stages",
       "range": [
         3,
         4,
@@ -1014,7 +1014,7 @@
       "progressive_ranges": true
     },
     {
-      "goal": "At least 4 Stars from {{X}} stages",
+      "goal": "At Least 4 Stars from {{X}} Stages",
       "range": [
         6,
         7
@@ -1040,8 +1040,8 @@
         "l",
         "n"
       ],
-      "progressive_ranges": true,
-      "weighting": 90
+      "weighting": 90,
+      "progressive_ranges": true
     },
     {
       "goal": "Open {{X}} Cannons",
@@ -1055,8 +1055,8 @@
       "individual_limit": 3,
       "board_categories": [
         "basement",
-        "mainfloor",
-        "cannons"
+        "cannons",
+        "mainfloor"
       ],
       "line_categories": [
         "cannons"
@@ -1078,8 +1078,8 @@
         11
       ],
       "board_categories": [
-        "thirdfloor",
-        "cannons"
+        "cannons",
+        "thirdfloor"
       ],
       "line_categories": [
         "cannons"
@@ -1242,15 +1242,15 @@
       ]
     },
     {
-      "goal": "Collect 120 Coins in {{X}} stage(s)",
+      "goal": "Collect 120 Coins in {{X}} Stage[[s]]",
       "range": [
         1,
         2,
         3
       ],
       "board_categories": [
-        "over100coins",
         "mainfloor",
+        "over100coins",
         "secondfloor"
       ],
       "line_categories": [
@@ -1261,7 +1261,7 @@
       ],
       "tooltip": "Collect a star in {{X}} stage(s) while having at least 120 coins",
       "icons": [
-        "sm64/coin.webp"
+        "sm64/120_coin.webp"
       ],
       "progression": [
         "e",
@@ -1341,8 +1341,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "jrb",
-        "collectstars"
+        "collectstars",
+        "jrb"
       ],
       "icons": [
         "sm64/jrb_star.webp"
@@ -1361,8 +1361,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "wf",
-        "collectstars"
+        "collectstars",
+        "wf"
       ],
       "icons": [
         "sm64/wf_star.webp"
@@ -1381,8 +1381,8 @@
         "basement"
       ],
       "line_categories": [
-        "lll",
-        "collectstars"
+        "collectstars",
+        "lll"
       ],
       "icons": [
         "sm64/lll_star.webp"
@@ -1421,8 +1421,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "sl",
-        "collectstars"
+        "collectstars",
+        "sl"
       ],
       "icons": [
         "sm64/sl_star.webp"
@@ -1461,8 +1461,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "wdw",
-        "collectstars"
+        "collectstars",
+        "wdw"
       ],
       "icons": [
         "sm64/wdw_star.webp"
@@ -1501,8 +1501,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "thi",
-        "collectstars"
+        "collectstars",
+        "thi"
       ],
       "icons": [
         "sm64/thi_star.webp"
@@ -1521,8 +1521,8 @@
         "thirdfloor"
       ],
       "line_categories": [
-        "ttc",
-        "collectstars"
+        "collectstars",
+        "ttc"
       ],
       "icons": [
         "sm64/ttc_star.webp"
@@ -1561,8 +1561,8 @@
         "thirdfloor"
       ],
       "line_categories": [
-        "rr",
-        "collectstars"
+        "collectstars",
+        "rr"
       ],
       "icons": [
         "sm64/rr_star.webp"
@@ -1602,8 +1602,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "ttm",
-        "collectstars"
+        "collectstars",
+        "ttm"
       ],
       "icons": [
         "sm64/ttm_star.webp"
@@ -1643,8 +1643,8 @@
         "basement"
       ],
       "line_categories": [
-        "ddd",
-        "collectstars"
+        "collectstars",
+        "ddd"
       ],
       "icons": [
         "sm64/ddd_star.webp"
@@ -1683,8 +1683,8 @@
         "basement"
       ],
       "line_categories": [
-        "ssl",
-        "collectstars"
+        "collectstars",
+        "ssl"
       ],
       "icons": [
         "sm64/ssl_star.webp"
@@ -1807,8 +1807,8 @@
         "basement"
       ],
       "line_categories": [
-        "hmc",
-        "collectstars"
+        "collectstars",
+        "hmc"
       ],
       "icons": [
         "sm64/hmc_star.webp"
@@ -1882,8 +1882,8 @@
       ],
       "line_categories": [
         "redcoins",
-        "ssl",
-        "singlestar"
+        "singlestar",
+        "ssl"
       ],
       "tooltip": "Red Coin Star in SSL",
       "icons": [
@@ -1956,8 +1956,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "sl",
-        "singlestar"
+        "singlestar",
+        "sl"
       ],
       "icons": [
         "sm64/vanish_cap_sl.webp"
@@ -1965,17 +1965,18 @@
       "progression": [
         "l"
       ]
-    },{
+    },
+    {
       "goal": "Scary 'Shrooms, Red Coins (TTM)",
       "range": [],
       "board_categories": [
-        "secondfloor",
-        "lockoutexclude"
+        "lockoutexclude",
+        "secondfloor"
       ],
       "line_categories": [
         "redcoins",
-        "ttm",
-        "singlestar"
+        "singlestar",
+        "ttm"
       ],
       "tooltip": "Red Coin Star in TTM",
       "icons": [
@@ -1991,16 +1992,16 @@
       "goal": "Secrets in the Shallows and Sky (WDW)",
       "range": [],
       "board_categories": [
-        "secondfloor",
-        "lockoutexclude"
+        "lockoutexclude",
+        "secondfloor"
       ],
       "line_categories": [
-        "wdw",
-        "singlestar"
+        "singlestar",
+        "wdw"
       ],
       "tooltip": "Shiny Secrets Star in WDW",
       "icons": [
-        "shiny_wdw.webp"
+        "sm64/shiny_wdw.webp"
       ],
       "progression": [
         "m",
@@ -2012,16 +2013,16 @@
       "goal": "Five Itty Bitty Secrets (THI)",
       "range": [],
       "board_categories": [
-        "secondfloor",
-        "lockoutexclude"
+        "lockoutexclude",
+        "secondfloor"
       ],
       "line_categories": [
-        "thi",
-        "singlestar"
+        "singlestar",
+        "thi"
       ],
       "tooltip": "Shiny Secrets Star in THI",
       "icons": [
-        "shiny_thi.webp"
+        "sm64/shiny_thi.webp"
       ],
       "progression": [
         "m",
@@ -2033,8 +2034,8 @@
       "goal": "Cruiser Crossing the Rainbow (RR)",
       "range": [],
       "board_categories": [
-        "thirdfloor",
-        "lockoutexclude"
+        "lockoutexclude",
+        "thirdfloor"
       ],
       "line_categories": [
         "rr",
@@ -2092,8 +2093,8 @@
         "thirdfloor"
       ],
       "line_categories": [
-        "castlesecrets",
         "cannons",
+        "castlesecrets",
         "singlestar"
       ],
       "icons": [
@@ -2176,8 +2177,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "ttm",
-        "singlestar"
+        "singlestar",
+        "ttm"
       ],
       "icons": [
         "sm64/monkey_ttm.webp"
@@ -2194,8 +2195,8 @@
       ],
       "line_categories": [
         "redcoins",
-        "thi",
-        "singlestar"
+        "singlestar",
+        "thi"
       ],
       "tooltip": "Red Coin Star in THI",
       "icons": [
@@ -2213,8 +2214,8 @@
       ],
       "line_categories": [
         "redcoins",
-        "sl",
-        "singlestar"
+        "singlestar",
+        "sl"
       ],
       "tooltip": "Red Coin Star in SL",
       "icons": [
@@ -2231,8 +2232,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "thi",
-        "singlestar"
+        "singlestar",
+        "thi"
       ],
       "icons": [
         "sm64/wiggler_thi.webp"
@@ -2249,8 +2250,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "wdw",
-        "singlestar"
+        "singlestar",
+        "wdw"
       ],
       "icons": [
         "sm64/vanish_cap_wdw.webp"
@@ -2284,8 +2285,8 @@
       ],
       "line_categories": [
         "redcoins",
-        "wf",
-        "singlestar"
+        "singlestar",
+        "wf"
       ],
       "tooltip": "Red Coin Star in WF",
       "icons": [
@@ -2296,7 +2297,7 @@
       ]
     },
     {
-      "goal": "Big Bob-omb on the Summit",
+      "goal": "Big Bob-omb on the Summit (BOB)",
       "range": [],
       "board_categories": [
         "mainfloor"
@@ -2509,8 +2510,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "ttm",
-        "singlestar"
+        "singlestar",
+        "ttm"
       ],
       "icons": [
         "sm64/ttm_coin.webp"
@@ -2529,8 +2530,8 @@
         "thirdfloor"
       ],
       "line_categories": [
-        "ttc",
-        "singlestar"
+        "singlestar",
+        "ttc"
       ],
       "icons": [
         "sm64/ttc_coin.webp"
@@ -2569,8 +2570,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "thi",
-        "singlestar"
+        "singlestar",
+        "thi"
       ],
       "icons": [
         "sm64/thi_coin.webp"
@@ -2589,8 +2590,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "wdw",
-        "singlestar"
+        "singlestar",
+        "wdw"
       ],
       "icons": [
         "sm64/wdw_coin.webp"
@@ -2609,8 +2610,8 @@
         "secondfloor"
       ],
       "line_categories": [
-        "sl",
-        "singlestar"
+        "singlestar",
+        "sl"
       ],
       "icons": [
         "sm64/sl_coin.webp"
@@ -2649,8 +2650,8 @@
         "basement"
       ],
       "line_categories": [
-        "ssl",
-        "singlestar"
+        "singlestar",
+        "ssl"
       ],
       "icons": [
         "sm64/ssl_coin.webp"
@@ -2730,8 +2731,8 @@
         "mainfloor"
       ],
       "line_categories": [
-        "wf",
-        "singlestar"
+        "singlestar",
+        "wf"
       ],
       "icons": [
         "sm64/wf_coin.webp"
@@ -2766,9 +2767,9 @@
         "mainfloor"
       ],
       "line_categories": [
-        "wdw",
         "redcoins",
-        "singlestar"
+        "singlestar",
+        "wdw"
       ],
       "tooltip": "Red Coin Star in WDW",
       "icons": [
@@ -2782,17 +2783,17 @@
   "limits": {
     "board": {
       "100coins": 20,
-      "over100coins": 12,
-      "cannons": 12,
       "allstars": 25,
       "basement": 50,
       "bowserreds": 15,
+      "cannons": 12,
       "lives": 20,
+      "lockoutexclude": 100,
       "mainfloor": 50,
+      "over100coins": 12,
       "secondfloor": 50,
       "superlate": 20,
-      "thirdfloor": 35,
-      "lockoutexclude": 100
+      "thirdfloor": 35
     },
     "line": {
       "bbh": 25,
@@ -2807,14 +2808,14 @@
       "lll": 25,
       "redcoins": 25,
       "rr": 25,
+      "singlestar": 45,
       "sl": 25,
       "ssl": 25,
       "thi": 30,
       "ttc": 20,
       "ttm": 30,
       "wdw": 30,
-      "wf": 30,
-      "singlestar": 45
+      "wf": 30
     }
   }
 }
