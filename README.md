@@ -78,6 +78,6 @@ Contribute to the prizepool by donating [here](https://streamlabs.com/yogoc/tip)
 
 ### Acknowledgements
 
-Thanks to [Benedict](https://twitch.tv/benedictfleur123) for help with making the goalset, playtesting, proofreading, and general organizational help.
+Thanks to [Benedict](https://twitch.tv/benedictfleur123) for help with making the goalset, playtesting, proofreading, and general organizational help. Thanks also to SecretAdept for making the icons and helping get the goalset on [Lockout.Live](https://lockout.live/)!
 
 Thank you all who helped playtest the goals and give feedback over the past few months!
