@@ -186,23 +186,6 @@
       ]
     },
     {
-      "goal": "Star 1 from each stage",
-      "range": [],
-      "board_categories": [
-        "thirdfloor"
-      ],
-      "line_categories": [
-        "collectstars"
-      ],
-      "tooltip": "Collect Star no. 1 in all 15 stages",
-      "icons": [
-        "sm64/star_1_all_course.webp"
-      ],
-      "progression": [
-        "n"
-      ]
-    },
-    {
       "goal": "Lose Mario's Hat",
       "range": [],
       "board_categories": [
@@ -397,33 +380,27 @@
       ]
     },
     {
-      "goal": "{{X}} Stars",
-      "range": [
-        20,
-        25
-      ],
+      "goal": "Star 1 from each stage",
+      "range": [],
       "board_categories": [
-        "basement",
-        "mainfloor",
-        "secondfloor",
         "thirdfloor"
       ],
       "line_categories": [
         "collectstars"
       ],
-      "tooltip": "Collect a total of {{X}} Stars",
+      "tooltip": "Collect Star no. 1 in all 15 stages",
       "icons": [
-        "sm64/power_star.webp"
+        "sm64/star_1_all_course.webp"
       ],
       "progression": [
-        "m",
-        "l"
-      ],
-      "progressive_ranges": true
+        "n"
+      ]
     },
     {
       "goal": "{{X}} Stars",
       "range": [
+        20,
+        25,
         30,
         35
       ],
@@ -441,6 +418,7 @@
         "sm64/power_star.webp"
       ],
       "progression": [
+        "m",
         "l",
         "n"
       ],
@@ -1061,6 +1039,7 @@
       "line_categories": [
         "cannons"
       ],
+      "tooltip": "There are 11 cannons total",
       "icons": [
         "sm64/cannon_lid.webp"
       ],
@@ -1084,6 +1063,7 @@
       "line_categories": [
         "cannons"
       ],
+      "tooltip": "There are 11 cannons total",
       "icons": [
         "sm64/cannon_lid.webp"
       ],
@@ -1167,8 +1147,11 @@
       "goal": "{{X}} 100 Coin Stars",
       "range": [
         3,
-        4
+        4,
+        5,
+        6
       ],
+      "individual_limit": 3,
       "board_categories": [
         "100coins"
       ],
@@ -1180,26 +1163,7 @@
       ],
       "progression": [
         "e",
-        "m"
-      ],
-      "progressive_ranges": true
-    },
-    {
-      "goal": "{{X}} 100 Coin Stars",
-      "range": [
-        5,
-        6
-      ],
-      "board_categories": [
-        "100coins"
-      ],
-      "line_categories": [
-        "collectstars"
-      ],
-      "icons": [
-        "sm64/100_coin.webp"
-      ],
-      "progression": [
+        "m",
         "l",
         "n"
       ],
@@ -1209,8 +1173,11 @@
       "goal": "Obtain {{X}} Lives",
       "range": [
         20,
-        25
+        25,
+        30,
+        35
       ],
+      "individual_limit": 3,
       "board_categories": [
         "lives"
       ],
@@ -1220,26 +1187,10 @@
       ],
       "progression": [
         "m",
-        "l"
-      ]
-    },
-    {
-      "goal": "Obtain {{X}} Lives",
-      "range": [
-        30,
-        35
-      ],
-      "board_categories": [
-        "lives"
-      ],
-      "line_categories": [],
-      "icons": [
-        "sm64/1_up_mushroom.webp"
-      ],
-      "progression": [
         "l",
         "n"
-      ]
+      ],
+      "progressive_ranges": true
     },
     {
       "goal": "Collect 120 Coins in {{X}} Stage[[s]]",
@@ -2146,7 +2097,8 @@
       ],
       "progression": [
         "m",
-        "l"
+        "l",
+        "n"
       ],
       "progressive_ranges": true
     },
