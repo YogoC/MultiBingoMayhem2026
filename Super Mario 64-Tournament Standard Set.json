@@ -74,7 +74,7 @@
       "line_categories": [
         "collectstars"
       ],
-      "tooltip": "The shiny secrets stars are in BOB, SSL, WDW, and THI",
+      "tooltip": "The shiny secrets stars are the BOB cannon star, SSL secrets, WDW secrets, and THI secrets",
       "icons": [
         "sm64/shiny_star.webp"
       ],
@@ -971,7 +971,7 @@
         "ccm",
         "thi"
       ],
-      "tooltip": "Win a race against Koopa the Quick (2) and/or the Big Penguin",
+      "tooltip": "Win a race against Koopa the Quick (2) and/or the Big Penguin and collect the stars",
       "icons": [
         "sm64/koopa_the_quick_star.webp",
         "sm64/penguin_star.webp"

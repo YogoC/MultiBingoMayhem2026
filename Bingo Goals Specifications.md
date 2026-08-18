@@ -84,7 +84,7 @@ Collect 2/3 treasure chest stars, which are JRB Ship, JRB Chests, DDD Chests.
 <details>
 <summary>Collect 2/3/4 Shiny Secret Stars</summary>
 
-Collect 2/3/4 shiny secrets stars, which can be found in BOB, SSL, WDW, and THI.
+Collect 2/3/4 shiny secrets stars. They are Mario Wings to the Sky (BOB), Pyramid Puzzle (SSL), Secrets in the Shallows & Sky (WDW), and Five Itty Bitty Secrets (THI).
 
 </details>
 
@@ -245,7 +245,7 @@ Defeat 3/4 minibosses and collect their stars. The minibosses are BOB King, WF K
 <details>
 <summary>Win 2/3 Character Races</summary>
 
-Win 2/3 Character Races. The three races are Footrace with Koopa the Quick in BOB, Rematch with Koopa the Quick in THI, and Big Penguin Race in CCM.
+Win 2/3 Character Races and collect the corresponding stars. The three races are Footrace with Koopa the Quick in BOB, Rematch with Koopa the Quick in THI, and Big Penguin Race in CCM.
 
 </details>
 
