@@ -2734,7 +2734,7 @@
   ],
   "limits": {
     "board": {
-      "100coins": 20,
+      "100coins": 25,
       "allstars": 25,
       "basement": 50,
       "bowserreds": 15,
