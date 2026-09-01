@@ -75,6 +75,13 @@ Collect all 7 stars in 2/3 different stages.
 </details>
 
 <details>
+<summary>2 Princess's Secret Slide Stars</summary>
+
+Collect both the box star and the under 21'0 star in PSS.
+
+</details>
+
+<details>
 <summary>Collect 2/3 Chest Stars</summary>
 
 Collect 2/3 treasure chest stars, which are JRB Ship, JRB Chests, DDD Chests.
@@ -493,13 +500,6 @@ Collect the star at the front end of the cruiser in RR.
 <summary>Somewhere over the Rainbow (RR)</summary>
 
 Collect the cannon star in RR.
-
-</details>
-
-<details>
-<summary>{{X}} Princess's Secret Slide Stars</summary>
-
-Collect both the box star and the under 21'0 star in PSS.
 
 </details>
 
