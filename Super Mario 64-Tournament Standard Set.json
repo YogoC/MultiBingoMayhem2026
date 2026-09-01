@@ -159,6 +159,7 @@
         "ddd",
         "jrb"
       ],
+      "tooltip": "Both stars named Through the Jet Stream JRB and DDD",
       "icons": [
         "sm64/metal_cap_ddd.webp",
         "sm64/metal_cap_jrb.webp"
@@ -904,7 +905,7 @@
       "line_categories": [
         "collectstars"
       ],
-      "tooltip": "Defeat minibosses and collect their stars",
+      "tooltip": "Defeat minibosses (BOB King, WF King, Eyerok, Wiggler) and collect their stars",
       "icons": [
         "sm64/king_bob_omb.webp",
         "sm64/whomp_king.webp",
@@ -1182,6 +1183,7 @@
         "lives"
       ],
       "line_categories": [],
+      "tooltip": "Reach {{X}} Lives on the HUD counter",
       "icons": [
         "sm64/1_up_mushroom.webp"
       ],
@@ -2506,7 +2508,7 @@
         "singlestar"
       ],
       "icons": [
-        "sm64/coin_rr.webp"
+        "sm64/rr_coin.webp"
       ],
       "progression": [
         "l"
@@ -2735,7 +2737,7 @@
   "limits": {
     "board": {
       "100coins": 25,
-      "allstars": 25,
+      "allstars": 22,
       "basement": 50,
       "bowserreds": 15,
       "cannons": 12,
